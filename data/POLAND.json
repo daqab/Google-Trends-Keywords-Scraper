@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "30-10-2022 , 10:57:18",
   "data": [
     [
-      "Hoffenheim – Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hoffenheim%20%E2%80%93%20Bayern"
+      {
+        "title": "Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jake%20Paul",
+        "pubdate": "Sun, 30 Oct 2022 07:00:00 +0100"
+      }
     ],
     [
-      "Brighton – Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Brighton%20%E2%80%93%20Liverpool"
+      {
+        "title": "Gorczańska Chata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gorcza%C5%84ska%20Chata",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Manchester%20United"
+      {
+        "title": "Jan Englert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20Englert",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Warta – Górnik Zabrze",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Warta%20%E2%80%93%20G%C3%B3rnik%20Zabrze"
+      {
+        "title": "Szczepan Twardoch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szczepan%20Twardoch",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Sampdoria – Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sampdoria%20%E2%80%93%20Juventus"
+      {
+        "title": "Ukradł tramwaj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ukrad%C5%82%20tramwaj",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Białoruś",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bia%C5%82oru%C5%9B"
+      {
+        "title": "Motor Lublin – Polonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Motor%20Lublin%20%E2%80%93%20Polonia",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Odra Opole – Arka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Odra%20Opole%20%E2%80%93%20Arka"
+      {
+        "title": "Gladiator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gladiator",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0200"
+      }
     ],
     [
-      "Baltic Pipe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Baltic%20Pipe"
+      {
+        "title": "Biały Lotos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bia%C5%82y%20Lotos",
+        "pubdate": "Sun, 30 Oct 2022 11:00:00 +0100"
+      }
     ],
     [
-      "Man Utd",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20Utd"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "Bialorus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bialorus"
+      {
+        "title": "Bayern – Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern%20%E2%80%93%20Mainz",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 +0200"
+      }
     ],
     [
-      "Cracovia – Pogoń",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cracovia%20%E2%80%93%20Pogo%C5%84"
+      {
+        "title": "PSG – Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSG%20%E2%80%93%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ],
     [
-      "ŁKS Łódź – Stomil",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81KS%20%C5%81%C3%B3d%C5%BA%20%E2%80%93%20Stomil"
+      {
+        "title": "Napoli – Sassuolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Napoli%20%E2%80%93%20Sassuolo",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 +0200"
+      }
     ],
     [
-      "FEN",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FEN"
+      {
+        "title": "Lecce – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lecce%20%E2%80%93%20Juventus",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0200"
+      }
     ],
     [
-      "Pink Floyd",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pink%20Floyd"
+      {
+        "title": "Korea południowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Korea%20po%C5%82udniowa",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "Bruce Willis",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bruce%20Willis"
+      {
+        "title": "Liverpool – Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liverpool%20%E2%80%93%20Leeds",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "Cichopek",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cichopek"
+      {
+        "title": "Ruch – GKS Katowice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ruch%20%E2%80%93%20GKS%20Katowice",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0200"
+      }
     ],
     [
-      "Górnik Łęczna – Legia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C3%B3rnik%20%C5%81%C4%99czna%20%E2%80%93%20Legia"
+      {
+        "title": "Brighton – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Brighton%20%E2%80%93%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0200"
+      }
     ],
     [
-      "Duda",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda"
+      {
+        "title": "Wisła Płock – Śląsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wis%C5%82a%20P%C5%82ock%20%E2%80%93%20%C5%9Al%C4%85sk",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "Łuck",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81uck"
+      {
+        "title": "Egzorcyzmy siostry Ann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Egzorcyzmy%20siostry%20Ann",
+        "pubdate": "Sat, 29 Oct 2022 01:00:00 +0200"
+      }
     ],
     [
-      "Joaquin Phoenix",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joaquin%20Phoenix"
+      {
+        "title": "Inter – Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter%20%E2%80%93%20Sampdoria",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ]
   ]
 }

@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:56",
+  "lastUpdate": "30-10-2022 , 10:57:10",
   "data": [
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United"
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 03:00:00 +0100"
+      }
     ],
     [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool"
+      {
+        "title": "Tijd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tijd",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "777 Partners",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#777%20Partners"
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0200"
+      }
     ],
     [
-      "Arno",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arno"
+      {
+        "title": "Tom Gregory",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Gregory",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Tournoi des 6 Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tournoi%20des%206%20Nations"
+      {
+        "title": "Nagui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nagui",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Pete Davidson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pete%20Davidson"
+      {
+        "title": "Rico Verhoeven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rico%20Verhoeven",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0100"
+      }
     ],
     [
-      "cdH",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#cdH"
+      {
+        "title": "Jelle Cleymans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jelle%20Cleymans",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Col de Turini",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Col%20de%20Turini"
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Flamengo",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0100"
+      }
     ],
     [
-      "Zulte Waregem",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte%20Waregem"
+      {
+        "title": "Changement d'heure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Changement%20d'heure",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Sampdoria – Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sampdoria%20%E2%80%93%20Juventus"
+      {
+        "title": "Club Brugge  Oostende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Oostende",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ],
     [
-      "Michele Laroque",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michele%20Laroque"
+      {
+        "title": "Paris-sg – Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris-sg%20%E2%80%93%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ],
     [
-      "Hoffenheim – Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hoffenheim%20%E2%80%93%20Bayern"
+      {
+        "title": "Leicester – Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leicester%20%E2%80%93%20Manchester%20City",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 +0200"
+      }
     ],
     [
-      "Astrid Coppens",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Astrid%20Coppens"
+      {
+        "title": "Brighton – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brighton%20%E2%80%93%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0200"
+      }
     ],
     [
-      "Evenepoel",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Evenepoel"
+      {
+        "title": "Valence – Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Valence%20%E2%80%93%20Barcelone",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Jennifer Garner",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jennifer%20Garner"
+      {
+        "title": "Standard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ],
     [
-      "Wit-Rusland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wit-Rusland"
+      {
+        "title": "Seoul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Seoul",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "ISS",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ISS"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "Union",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union"
+      {
+        "title": "Liverpool – Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Leeds%20United",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea"
+      {
+        "title": "Veronique Sanson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Veronique%20Sanson",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "Adam a travers le temps",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adam%20a%20travers%20le%20temps"
+      {
+        "title": "Lecce – Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lecce%20%E2%80%93%20Juventus",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0200"
+      }
     ]
   ]
 }

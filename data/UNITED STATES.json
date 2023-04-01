@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:55",
+  "lastUpdate": "30-10-2022 , 10:57:08",
   "data": [
     [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Traci%20Braxton"
+      {
+        "title": "Seoul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seoul",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 -0700"
+      }
     ],
     [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers"
+      {
+        "title": "Penn State football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Penn%20State%20football",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 -0700"
+      }
     ],
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United"
+      {
+        "title": "Powerball numbers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball%20numbers",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 -0700"
+      }
     ],
     [
-      "Tornado Watch",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado%20Watch"
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
+        "pubdate": "Sat, 29 Oct 2022 07:00:00 -0700"
+      }
     ],
     [
-      "Gregg Popovich",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gregg%20Popovich"
+      {
+        "title": "Florida Gators football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Florida%20Gators%20football",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 -0700"
+      }
     ],
     [
-      "St. Patrick's Day Parade",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#St.%20Patrick's%20Day%20Parade"
+      {
+        "title": "PSG vs Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG%20vs%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 -0700"
+      }
     ],
     [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brighton%20vs%20Liverpool"
+      {
+        "title": "Leicester City vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leicester%20City%20vs%20Man%20City",
+        "pubdate": "Sat, 29 Oct 2022 05:00:00 -0700"
+      }
     ],
     [
-      "Maxx Crosby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maxx%20Crosby"
+      {
+        "title": "Michigan vs Michigan State",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20vs%20Michigan%20State",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 -0700"
+      }
     ],
     [
-      "Kashmir Files",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kashmir%20Files"
+      {
+        "title": "Kentucky football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20football",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 -0700"
+      }
     ],
     [
-      "Hailey Bieber",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hailey%20Bieber"
+      {
+        "title": "Liverpool vs Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool%20vs%20Leeds%20United",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0700"
+      }
     ],
     [
-      "Winter storm warning",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20storm%20warning"
+      {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brighton%20vs%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 08:00:00 -0700"
+      }
     ],
     [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Turning%20Red"
+      {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 08:00:00 -0700"
+      }
     ],
     [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Adam%20Project"
+      {
+        "title": "Kyrie Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyrie%20Irving",
+        "pubdate": "Sat, 29 Oct 2022 06:00:00 -0700"
+      }
     ],
     [
-      "Deshaun Watson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deshaun%20Watson"
+      {
+        "title": "The Witcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Witcher",
+        "pubdate": "Sat, 29 Oct 2022 14:00:00 -0700"
+      }
     ],
     [
-      "Daylight savings",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daylight%20savings"
+      {
+        "title": "Lomachenko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lomachenko",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 -0700"
+      }
     ],
     [
-      "Kentucky basketball",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20basketball"
+      {
+        "title": "Warriors vs Hornets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors%20vs%20Hornets",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 -0700"
+      }
     ],
     [
-      "Illinois basketball",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball"
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 -0700"
+      }
     ],
     [
-      "Willie Nelson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Willie%20Nelson"
+      {
+        "title": "Oklahoma football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oklahoma%20football",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 -0700"
+      }
     ],
     [
-      "Red panda",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Red%20panda"
+      {
+        "title": "Myositis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Myositis",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 -0700"
+      }
     ],
     [
-      "Upload",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Upload"
+      {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dogecoin",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0700"
+      }
     ]
   ]
 }

@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "30-10-2022 , 10:57:19",
   "data": [
     [
-      "Brentford vs Burnley",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brentford%20vs%20Burnley"
+      {
+        "title": "Bangladesh vs Zimbabwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bangladesh%20vs%20Zimbabwe",
+        "pubdate": "Sun, 30 Oct 2022 11:00:00 +0800"
+      }
     ],
     [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Liverpool"
+      {
+        "title": "Valencia vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Valencia%20vs%20Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 03:00:00 +0800"
+      }
     ],
     [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Tottenham"
+      {
+        "title": "Netherlands vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Netherlands%20vs%20Pakistan",
+        "pubdate": "Sun, 30 Oct 2022 15:00:00 +0800"
+      }
     ],
     [
-      "Johor election",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Johor%20election"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liam%20Hemsworth",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0800"
+      }
     ],
     [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers"
+      {
+        "title": "Fulham vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fulham%20vs%20Everton",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0800"
+      }
     ],
     [
-      "Malaysiakini",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Malaysiakini"
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0800"
+      }
     ],
     [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australia%20vs%20Pakistan"
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0800"
+      }
     ],
     [
-      "Daniel Ricciardo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Daniel%20Ricciardo"
+      {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dogecoin",
+        "pubdate": "Sun, 30 Oct 2022 03:00:00 +0800"
+      }
     ],
     [
-      "Li Keqiang",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Keqiang"
+      {
+        "title": "FIFA World Cup 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FIFA%20World%20Cup%202022",
+        "pubdate": "Sun, 30 Oct 2022 15:00:00 +0800"
+      }
     ],
     [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Adam%20Project"
+      {
+        "title": "Kyrie Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kyrie%20Irving",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0800"
+      }
     ],
     [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea"
+      {
+        "title": "Mexico GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mexico%20GP",
+        "pubdate": "Sun, 30 Oct 2022 13:00:00 +0800"
+      }
     ],
     [
-      "Deltacron",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Deltacron"
+      {
+        "title": "Itaewon stampede",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Itaewon%20stampede",
+        "pubdate": "Sat, 29 Oct 2022 01:00:00 +0800"
+      }
     ],
     [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Turning%20Red"
+      {
+        "title": "Liverpool vs Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Leeds%20United",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 +0800"
+      }
     ],
     [
-      "Europa League",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League"
+      {
+        "title": "Leicester City vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leicester%20City%20vs%20Man%20City",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0800"
+      }
     ],
     [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Grimes"
+      {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0800"
+      }
     ],
     [
-      "Kashmir Files",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kashmir%20Files"
+      {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0800"
+      }
     ],
     [
-      "Elon Musk",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk"
+      {
+        "title": "Jake Paul vs Anderson Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jake%20Paul%20vs%20Anderson%20Silva",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0800"
+      }
     ],
     [
-      "Maaran",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Maaran"
+      {
+        "title": "Paul Pelosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paul%20Pelosi",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 +0800"
+      }
     ],
     [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jussie%20Smollett"
+      {
+        "title": "Myositis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Myositis",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 +0800"
+      }
     ],
     [
-      "Jennifer Garner",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jennifer%20Garner"
+      {
+        "title": "IND vs SA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IND%20vs%20SA",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0800"
+      }
     ]
   ]
 }

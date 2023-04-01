@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:56",
+  "lastUpdate": "30-10-2022 , 10:57:11",
   "data": [
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United"
+      {
+        "title": "Jake Paul vs Anderson Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jake%20Paul%20vs%20Anderson%20Silva",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 -0300"
+      }
     ],
     [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool"
+      {
+        "title": "El mago de Oz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20mago%20de%20Oz",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 -0300"
+      }
     ],
     [
-      "Coquimbo Unido vs Ñublense",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido%20vs%20%C3%91ublense"
+      {
+        "title": "Real Madrid vs Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20vs%20Girona",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 -0300"
+      }
     ],
     [
-      "Sampdoria  Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sampdoria%20%20Juventus"
+      {
+        "title": "Valencia CF vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valencia%20CF%20vs%20Barcelona",
+        "pubdate": "Sat, 29 Oct 2022 14:00:00 -0300"
+      }
     ],
     [
-      "Gerardo rozin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gerardo%20rozin"
+      {
+        "title": "PSG vs Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG%20vs%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0300"
+      }
     ],
     [
-      "Hoffenheim  Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hoffenheim%20%20Bayern"
+      {
+        "title": "Leicester City vs Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leicester%20City%20vs%20Manchester%20City",
+        "pubdate": "Sat, 29 Oct 2022 08:00:00 -0300"
+      }
     ],
     [
-      "Plan Paso a Paso",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Plan%20Paso%20a%20Paso"
+      {
+        "title": "Cuando es Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuando%20es%20Halloween",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 -0300"
+      }
     ],
     [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers"
+      {
+        "title": "Liverpool vs Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20vs%20Leeds",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 -0300"
+      }
     ],
     [
-      "Mega",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mega"
+      {
+        "title": "Arturo Vidal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arturo%20Vidal",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 -0300"
+      }
     ],
     [
-      "Camila Vallejo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Camila%20Vallejo"
+      {
+        "title": "Cádiz vs Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#C%C3%A1diz%20vs%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0300"
+      }
     ],
     [
-      "TVN",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN"
+      {
+        "title": "Bayern vs Mainz 05",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern%20vs%20Mainz%2005",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 -0300"
+      }
     ],
     [
-      "Alvaro Elizalde",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alvaro%20Elizalde"
+      {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20vs%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0300"
+      }
     ],
     [
-      "24Horas",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#24Horas"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 -0300"
+      }
     ],
     [
-      "La Serena  Cobresal",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Serena%20%20Cobresal"
+      {
+        "title": "Giancarlo Esposito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Giancarlo%20Esposito",
+        "pubdate": "Sat, 29 Oct 2022 14:00:00 -0300"
+      }
     ],
     [
-      "Discípulo del Chef",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Disc%C3%ADpulo%20del%20Chef"
+      {
+        "title": "Lecce vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lecce%20vs%20Juventus",
+        "pubdate": "Sat, 29 Oct 2022 14:00:00 -0300"
+      }
     ],
     [
-      "Izkia Siches",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Izkia%20Siches"
+      {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0300"
+      }
     ],
     [
-      "Canal 13",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canal%2013"
+      {
+        "title": "Cobresal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 -0300"
+      }
     ],
     [
-      "Yamil Asad",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Yamil%20Asad"
+      {
+        "title": "Inter vs sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20vs%20sampdoria",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 -0300"
+      }
     ],
     [
-      "Ford Galaxie",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ford%20Galaxie"
+      {
+        "title": "Perro cabeza humana video",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Perro%20cabeza%20humana%20video",
+        "pubdate": "Sat, 29 Oct 2022 01:00:00 -0300"
+      }
     ],
     [
-      "Proyecto Adam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Proyecto%20Adam"
+      {
+        "title": "Sevilla vs Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sevilla%20vs%20Rayo%20Vallecano",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 -0300"
+      }
     ]
   ]
 }

@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:59",
+  "lastUpdate": "30-10-2022 , 10:57:15",
   "data": [
     [
-      "Salernitana  Sassuolo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana%20%20Sassuolo"
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Flamengo",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Spezia-Cagliari",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Spezia-Cagliari"
+      {
+        "title": "Barcellona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barcellona",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Italia-Scozia rugby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia-Scozia%20rugby"
+      {
+        "title": "Ballando con le Stelle eliminati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ballando%20con%20le%20Stelle%20eliminati",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Lecce Brescia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lecce%20Brescia"
+      {
+        "title": "Samuel Iling-Junior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Samuel%20Iling-Junior",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Beatrice Valli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Beatrice%20Valli"
+      {
+        "title": "Estrazioni Lotto, Superenalotto oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Estrazioni%20Lotto,%20Superenalotto%20oggi",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Manchester United-Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United-Tottenham"
+      {
+        "title": "Diego Armando Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Diego%20Armando%20Maradona",
+        "pubdate": "Sun, 30 Oct 2022 02:00:00 +0100"
+      }
     ],
     [
-      "Rula Jebreal",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rula%20Jebreal"
+      {
+        "title": "Seoul news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Seoul%20news",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0100"
+      }
     ],
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United"
+      {
+        "title": "Juventus 'Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus%20'Inter",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Valeria Fabrizi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Valeria%20Fabrizi"
+      {
+        "title": "Nino Frassica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nino%20Frassica",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Manila Nazzaro",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manila%20Nazzaro"
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Giovinco",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giovinco"
+      {
+        "title": "Nina Corradini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nina%20Corradini",
+        "pubdate": "Sun, 30 Oct 2022 11:00:00 +0100"
+      }
     ],
     [
-      "Bruzzone",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bruzzone"
+      {
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coldplay",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Benevento-Crotone",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Benevento-Crotone"
+      {
+        "title": "Ferrari 499P",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ferrari%20499P",
+        "pubdate": "Sun, 30 Oct 2022 11:00:00 +0100"
+      }
     ],
     [
-      "Kasparov",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kasparov"
+      {
+        "title": "Lula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lula",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0100"
+      }
     ],
     [
-      "Walter Zenga",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Walter%20Zenga"
+      {
+        "title": "Riforma Cartabia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Riforma%20Cartabia",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0100"
+      }
     ],
     [
-      "Giulia Bevilacqua",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giulia%20Bevilacqua"
+      {
+        "title": "Mario Rui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mario%20Rui",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0100"
+      }
     ],
     [
-      "Reggina-Perugia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina-Perugia"
+      {
+        "title": "Lucarelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lucarelli",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0100"
+      }
     ],
     [
-      "Tommaso Zorzi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tommaso%20Zorzi"
+      {
+        "title": "Festa Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Festa%20Halloween",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "Milan  Juventus Women",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan%20%20Juventus%20Women"
+      {
+        "title": "Vittorio Boiocchi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vittorio%20Boiocchi",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "Monza-Vicenza",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monza-Vicenza"
+      {
+        "title": "Psg  Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Psg%20%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ]
   ]
 }

@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:00",
+  "lastUpdate": "30-10-2022 , 10:57:17",
   "data": [
     [
-      "Sven Kramer",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sven%20Kramer"
+      {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halloween",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "FC Groningen",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen"
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United"
+      {
+        "title": "Klok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Klok",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Beugelsdijk",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beugelsdijk"
+      {
+        "title": "Summerville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Summerville",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0100"
+      }
     ],
     [
-      "Vitiligo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitiligo"
+      {
+        "title": "Wintertijd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wintertijd",
+        "pubdate": "Sat, 29 Oct 2022 03:00:00 +0200"
+      }
     ],
     [
-      "Brighton  Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brighton%20%20Liverpool"
+      {
+        "title": "Rico Verhoeven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rico%20Verhoeven",
+        "pubdate": "Sat, 29 Oct 2022 01:00:00 +0200"
+      }
     ],
     [
-      "The voice of Holland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20voice%20of%20Holland"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 23:00:00 +0200"
+      }
     ],
     [
-      "Sailing Yacht A",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sailing%20Yacht%20A"
+      {
+        "title": "Hugo Camps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hugo%20Camps",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ],
     [
-      "Ihattaren",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ihattaren"
+      {
+        "title": "Seoul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Seoul",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Nicki Minaj",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nicki%20Minaj"
+      {
+        "title": "Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0200"
+      }
     ],
     [
-      "Ajax",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax"
+      {
+        "title": "Youp van 't Hek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Youp%20van%20't%20Hek",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "The Streamers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Streamers"
+      {
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 +0200"
+      }
     ],
     [
-      "ADO Den Haag",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag"
+      {
+        "title": "Go Ahead Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "NAC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC"
+      {
+        "title": "Nacht van de Nacht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nacht%20van%20de%20Nacht",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 +0200"
+      }
     ],
     [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jussie%20Smollett"
+      {
+        "title": "Zomertijd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zomertijd",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea"
+      {
+        "title": "Hart van Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hart%20van%20Nederland",
+        "pubdate": "Sat, 29 Oct 2022 07:00:00 +0200"
+      }
     ],
     [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Adam%20Project"
+      {
+        "title": "Mart Hoogkamer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mart%20Hoogkamer",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "FC Emmen",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen"
+      {
+        "title": "Mastodon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mastodon",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0200"
+      }
     ],
     [
-      "Ryan Reynolds",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryan%20Reynolds"
+      {
+        "title": "FC Den Bosch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "De Verraders",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Verraders"
+      {
+        "title": "F1 Mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Mexico",
+        "pubdate": "Fri, 28 Oct 2022 16:00:00 +0200"
+      }
     ]
   ]
 }

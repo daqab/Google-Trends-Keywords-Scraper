@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:03",
+  "lastUpdate": "30-10-2022 , 10:57:21",
   "data": [
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United"
+      {
+        "title": "29 Ekim Cumhuriyet Bayramı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#29%20Ekim%20Cumhuriyet%20Bayram%C4%B1",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Hatayspor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hatayspor"
+      {
+        "title": "TRT Haber Spikeri Deniz Demir kimdir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%20Haber%20Spikeri%20Deniz%20Demir%20kimdir",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0300"
+      }
     ],
     [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool"
+      {
+        "title": "Yaz saati kış saati uygulaması",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yaz%20saati%20k%C4%B1%C5%9F%20saati%20uygulamas%C4%B1",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0300"
+      }
     ],
     [
-      "Manchester United - Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United%20-%20Tottenham"
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0300"
+      }
     ],
     [
-      "Esra Ersoy",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Esra%20Ersoy"
+      {
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Henry%20Cavill",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0300"
+      }
     ],
     [
-      "Kasımpaşa  Rizespor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kas%C4%B1mpa%C5%9Fa%20%20Rizespor"
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Madonna",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0300"
+      }
     ],
     [
-      "Niyazi Koyuncu",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Niyazi%20Koyuncu"
+      {
+        "title": "Ali Koç",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ali%20Ko%C3%A7",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0300"
+      }
     ],
     [
-      "Altay",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Altay"
+      {
+        "title": "Giresun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Giresun",
+        "pubdate": "Sun, 30 Oct 2022 02:00:00 +0300"
+      }
     ],
     [
-      "Tansu Çiller",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tansu%20%C3%87iller"
+      {
+        "title": "Edip Akbayram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Edip%20Akbayram",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0300"
+      }
     ],
     [
-      "Tuğçe Kandemir",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tu%C4%9F%C3%A7e%20Kandemir"
+      {
+        "title": "Doğu Perinçek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Do%C4%9Fu%20Perin%C3%A7ek",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0300"
+      }
     ],
     [
-      "Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus"
+      {
+        "title": "Mustafa Sarıgül",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mustafa%20Sar%C4%B1g%C3%BCl",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0300"
+      }
     ],
     [
-      "PAZARTESİ OKULLAR TATİL Mİ",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PAZARTES%C4%B0%20OKULLAR%20TAT%C4%B0L%20M%C4%B0"
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Flamengo",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0300"
+      }
     ],
     [
-      "Hoffenheim  Bayern Münih",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hoffenheim%20%20Bayern%20M%C3%BCnih"
+      {
+        "title": "Kubilay Aka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kubilay%20Aka",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Alanyaspor  Fenerbahçe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20%20Fenerbah%C3%A7e"
+      {
+        "title": "Doge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Doge",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0300"
+      }
     ],
     [
-      "Devlet Bahçeli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli"
+      {
+        "title": "Fenerbahçe Voleybol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20Voleybol",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Erzurum deprem",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem"
+      {
+        "title": "Kvaratskhelia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kvaratskhelia",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Yıldız Tilbe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Y%C4%B1ld%C4%B1z%20Tilbe"
+      {
+        "title": "Fatih Kısaparmak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fatih%20K%C4%B1saparmak",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0300"
+      }
     ],
     [
-      "Kıyamet filmi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#K%C4%B1yamet%20filmi"
+      {
+        "title": "PSG Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0300"
+      }
     ],
     [
-      "Özer Hurmacı",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zer%20Hurmac%C4%B1"
+      {
+        "title": "Leicester City  Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Leicester%20City%20%20Manchester%20City",
+        "pubdate": "Sat, 29 Oct 2022 14:00:00 +0300"
+      }
     ],
     [
-      "Belarus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Belarus"
+      {
+        "title": "Alanyaspor - Gaziantep FK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20-%20Gaziantep%20FK",
+        "pubdate": "Sat, 29 Oct 2022 17:00:00 +0300"
+      }
     ]
   ]
 }

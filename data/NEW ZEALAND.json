@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:00",
+  "lastUpdate": "30-10-2022 , 10:57:17",
   "data": [
     [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20United%20vs%20Tottenham"
+      {
+        "title": "Itaewon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Itaewon",
+        "pubdate": "Sun, 30 Oct 2022 12:00:00 +1300"
+      }
     ],
     [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brighton%20vs%20Liverpool"
+      {
+        "title": "Liverpool vs Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20Leeds%20United",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +1300"
+      }
     ],
     [
-      "Crusaders vs Chiefs",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crusaders%20vs%20Chiefs"
+      {
+        "title": "Leicester City vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leicester%20City%20vs%20Man%20City",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +1300"
+      }
     ],
     [
-      "Warriors",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liam%20Hemsworth",
+        "pubdate": "Sun, 30 Oct 2022 11:00:00 +1300"
+      }
     ],
     [
-      "John Travolta",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Travolta"
+      {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brighton%20vs%20Chelsea",
+        "pubdate": "Sun, 30 Oct 2022 05:00:00 +1300"
+      }
     ],
     [
-      "Around the World in 80 Days",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Around%20the%20World%20in%2080%20Days"
+      {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Sun, 30 Oct 2022 05:00:00 +1300"
+      }
     ],
     [
-      "Six Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Six%20Nations"
+      {
+        "title": "Newcastle vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newcastle%20vs%20Aston%20Villa",
+        "pubdate": "Sun, 30 Oct 2022 06:00:00 +1300"
+      }
     ],
     [
-      "Chelsea Manning",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20Manning"
+      {
+        "title": "PSG vs Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PSG%20vs%20Troyes",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +1300"
+      }
     ],
     [
-      "Warriors game",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20game"
+      {
+        "title": "Brentford vs Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brentford%20vs%20Wolves",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +1300"
+      }
     ],
     [
-      "Wellington Phoenix",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix"
+      {
+        "title": "Netherlands vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Netherlands%20vs%20Pakistan",
+        "pubdate": "Sun, 30 Oct 2022 21:00:00 +1300"
+      }
     ],
     [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers"
+      {
+        "title": "Dominic Cummings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dominic%20Cummings",
+        "pubdate": "Sun, 30 Oct 2022 23:00:00 +1300"
+      }
     ],
     [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20Pakistan"
+      {
+        "title": "Crystal Palace vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crystal%20Palace%20vs%20Southampton",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +1300"
+      }
     ],
     [
-      "Indian Wells",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Indian%20Wells"
+      {
+        "title": "Bangladesh vs Zimbabwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bangladesh%20vs%20Zimbabwe",
+        "pubdate": "Sun, 30 Oct 2022 19:00:00 +1300"
+      }
     ],
     [
-      "Jennifer Garner",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jennifer%20Garner"
+      {
+        "title": "Valencia vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Valencia%20vs%20Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 12:00:00 +1300"
+      }
     ],
     [
-      "Gas prices NZ$",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gas%20prices%20NZ$"
+      {
+        "title": "Myositis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Myositis",
+        "pubdate": "Sun, 30 Oct 2022 18:00:00 +1300"
+      }
     ],
     [
-      "Fuel prices nz",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fuel%20prices%20nz"
+      {
+        "title": "Fulham vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fulham%20vs%20Everton",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +1300"
+      }
     ],
     [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Adam%20Project"
+      {
+        "title": "Australia vs Scotland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20Scotland",
+        "pubdate": "Sun, 30 Oct 2022 18:00:00 +1300"
+      }
     ],
     [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grimes"
+      {
+        "title": "Tour of Southland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tour%20of%20Southland",
+        "pubdate": "Sun, 30 Oct 2022 21:00:00 +1300"
+      }
     ],
     [
-      "Epl",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epl"
+      {
+        "title": "Hornets vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hornets%20vs%20Warriors",
+        "pubdate": "Sun, 30 Oct 2022 20:00:00 +1300"
+      }
     ],
     [
-      "Premier League",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League"
+      {
+        "title": "All Blacks vs Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20Japan",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 +1300"
+      }
     ]
   ]
 }

@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:59",
+  "lastUpdate": "30-10-2022 , 10:57:16",
   "data": [
     [
-      "Kalonzo Musyoka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kalonzo%20Musyoka"
+      {
+        "title": "Man United vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20West%20Ham",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0300"
+      }
     ],
     [
-      "Getafe vs Valencia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Getafe%20vs%20Valencia"
+      {
+        "title": "Torino vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Torino%20vs%20Milan",
+        "pubdate": "Sun, 30 Oct 2022 06:00:00 +0300"
+      }
     ],
     [
-      "Hoffenheim vs Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hoffenheim%20vs%20Bayern"
+      {
+        "title": "Union Berlin vs Borussia mg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Union%20Berlin%20vs%20Borussia%20mg",
+        "pubdate": "Sun, 30 Oct 2022 03:00:00 +0300"
+      }
     ],
     [
-      "Sampdoria vs Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sampdoria%20vs%20Juventus"
+      {
+        "title": "Real Madrid vs Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Girona",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Fulham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham"
+      {
+        "title": "Kyrie Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kyrie%20Irving",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0300"
+      }
     ],
     [
-      "Millwall vs Middlesbrough",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Millwall%20vs%20Middlesbrough"
+      {
+        "title": "Jake Paul vs Anderson Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jake%20Paul%20vs%20Anderson%20Silva",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Angers vs Reims",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Angers%20vs%20Reims"
+      {
+        "title": "Leicester City vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City%20vs%20Man%20City",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 +0300"
+      }
     ],
     [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Traci%20Braxton"
+      {
+        "title": "PSG vs Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG%20vs%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 +0300"
+      }
     ],
     [
-      "Lakers vs Wizards",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakers%20vs%20Wizards"
+      {
+        "title": "Valencia vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valencia%20vs%20Barcelona",
+        "pubdate": "Sat, 29 Oct 2022 08:00:00 +0300"
+      }
     ],
     [
-      "Blackpool vs Swansea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blackpool%20vs%20Swansea"
+      {
+        "title": "Bayern vs Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20vs%20Mainz",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Everton vs Wolves",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Wolves"
+      {
+        "title": "Arsenal vs nottm Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20nottm%20Forest",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0300"
+      }
     ],
     [
-      "Milan vs Empoli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Empoli"
+      {
+        "title": "Lecce vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lecce%20vs%20Juventus",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 +0300"
+      }
     ],
     [
-      "Brentford FC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford%20FC"
+      {
+        "title": "Napoli vs Sassuolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli%20vs%20Sassuolo",
+        "pubdate": "Sat, 29 Oct 2022 07:00:00 +0300"
+      }
     ],
     [
-      "Chelsea vs Newcastle",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Newcastle"
+      {
+        "title": "Hull City vs Blackburn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hull%20City%20vs%20Blackburn",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 +0300"
+      }
     ],
     [
-      "Freiburg vs Wolfsburg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Freiburg%20vs%20Wolfsburg"
+      {
+        "title": "Preston vs Middlesbrough",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Preston%20vs%20Middlesbrough",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 +0300"
+      }
     ],
     [
-      "Sunderland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sunderland"
+      {
+        "title": "Inter vs Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20vs%20Sampdoria",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 +0300"
+      }
     ],
     [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Tottenham"
+      {
+        "title": "Wigan vs Watford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wigan%20vs%20Watford",
+        "pubdate": "Sat, 29 Oct 2022 07:00:00 +0300"
+      }
     ],
     [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brighton%20vs%20Liverpool"
+      {
+        "title": "Eintracht Frankfurt vs Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Eintracht%20Frankfurt%20vs%20Borussia%20Dortmund",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0300"
+      }
     ],
     [
-      "Epl table",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Epl%20table"
+      {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sevilla",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0300"
+      }
     ],
     [
-      "EPL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPL"
+      {
+        "title": "Shakhtar Donetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Shakhtar%20Donetsk",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0300"
+      }
     ]
   ]
 }

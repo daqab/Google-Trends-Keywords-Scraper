@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:03",
+  "lastUpdate": "30-10-2022 , 10:57:22",
   "data": [
     [
-      "Sassuolo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sassuolo"
+      {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Halloween",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0700"
+      }
     ],
     [
-      "MU vs Tot",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs%20Tot"
+      {
+        "title": "T1 vs JDG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T1%20vs%20JDG",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0700"
+      }
     ],
     [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool"
+      {
+        "title": "Real Madrid – Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20%E2%80%93%20Girona",
+        "pubdate": "Sun, 30 Oct 2022 05:00:00 +0700"
+      }
     ],
     [
-      "Đường lưỡi bò",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%C6%B0%E1%BB%9Dng%20l%C6%B0%E1%BB%A1i%20b%C3%B2"
+      {
+        "title": "Paris Saint-Germain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Paris%20Saint-Germain",
+        "pubdate": "Sun, 30 Oct 2022 05:00:00 +0700"
+      }
     ],
     [
-      "Uncharted",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Uncharted"
+      {
+        "title": "Ký ức vui vẻ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%C3%BD%20%E1%BB%A9c%20vui%20v%E1%BA%BB",
+        "pubdate": "Sun, 30 Oct 2022 11:00:00 +0700"
+      }
     ],
     [
-      "BMW",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#BMW"
+      {
+        "title": "Jin (BTS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jin%20(BTS",
+        "pubdate": "Sun, 30 Oct 2022 12:00:00 +0700"
+      }
     ],
     [
-      "Bóng đá Man City",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20Man%20City"
+      {
+        "title": "Tot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tot",
+        "pubdate": "Sun, 30 Oct 2022 06:00:00 +0700"
+      }
     ],
     [
-      "On Football",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#On%20Football"
+      {
+        "title": "Hương Giang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C6%B0%C6%A1ng%20Giang",
+        "pubdate": "Sun, 30 Oct 2022 13:00:00 +0700"
+      }
     ],
     [
-      "Diễn viên Tangmo Nida",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Di%E1%BB%85n%20vi%C3%AAn%20Tangmo%20Nida"
+      {
+        "title": "Neuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Neuer",
+        "pubdate": "Sun, 30 Oct 2022 14:00:00 +0700"
+      }
     ],
     [
-      "Anh có phải đàn ông không tập 16",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20c%C3%B3%20ph%E1%BA%A3i%20%C4%91%C3%A0n%20%C3%B4ng%20kh%C3%B4ng%20t%E1%BA%ADp%2016"
+      {
+        "title": "Gisele bündchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gisele%20b%C3%BCndchen",
+        "pubdate": "Sun, 30 Oct 2022 14:00:00 +0700"
+      }
     ],
     [
-      "Trivago",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Trivago"
+      {
+        "title": "Leicester – Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Leicester%20%E2%80%93%20Man%20City",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0700"
+      }
     ],
     [
-      "Bang xep hang",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bang%20xep%20hang"
+      {
+        "title": "Brighton – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brighton%20%E2%80%93%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 23:00:00 +0700"
+      }
     ],
     [
-      "Deltacron",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Deltacron"
+      {
+        "title": "Bournemouth – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bournemouth%20%E2%80%93%20Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0700"
+      }
     ],
     [
-      "Vũ Ngọc Phượng",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C5%A9%20Ng%E1%BB%8Dc%20Ph%C6%B0%E1%BB%A3ng"
+      {
+        "title": "Liverpool – Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%E2%80%93%20Leeds",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 +0700"
+      }
     ],
     [
-      "Hà Nội đấu với TP.HCM",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20N%E1%BB%99i%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20TP.HCM"
+      {
+        "title": "Fulham – Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fulham%20%E2%80%93%20Everton",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0700"
+      }
     ],
     [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea"
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0700"
+      }
     ],
     [
-      "Giá dầu hôm nay",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20d%E1%BA%A7u%20h%C3%B4m%20nay"
+      {
+        "title": "Valencia – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Valencia%20%E2%80%93%20Barcelona",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0700"
+      }
     ],
     [
-      "HAGL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#HAGL"
+      {
+        "title": "Halloween ngày mấy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Halloween%20ng%C3%A0y%20m%E1%BA%A5y",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 +0700"
+      }
     ],
     [
-      "Aston Villa",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa"
+      {
+        "title": "Man Utd – West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%E2%80%93%20West%20Ham",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 +0700"
+      }
     ],
     [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Grimes"
+      {
+        "title": "Pau FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Pau%20FC",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0700"
+      }
     ]
   ]
 }

@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:58",
+  "lastUpdate": "30-10-2022 , 10:57:14",
   "data": [
     [
-      "Harmanpreet Kaur",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Harmanpreet%20Kaur"
+      {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Halloween",
+        "pubdate": "Sun, 30 Oct 2022 01:30:00 +0530"
+      }
     ],
     [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australia%20vs%20Pakistan"
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
+        "pubdate": "Sun, 30 Oct 2022 07:30:00 +0530"
+      }
     ],
     [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20United%20vs%20Tottenham"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liam%20Hemsworth",
+        "pubdate": "Sun, 30 Oct 2022 09:30:00 +0530"
+      }
     ],
     [
-      "RCB captain 2022",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#RCB%20captain%202022"
+      {
+        "title": "Jake Paul vs Anderson Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jake%20Paul%20vs%20Anderson%20Silva",
+        "pubdate": "Sun, 30 Oct 2022 10:30:00 +0530"
+      }
     ],
     [
-      "Maaran",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maaran"
+      {
+        "title": "Kangana Ranaut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kangana%20Ranaut",
+        "pubdate": "Sun, 30 Oct 2022 06:30:00 +0530"
+      }
     ],
     [
-      "Smriti Mandhana",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Smriti%20Mandhana"
+      {
+        "title": "TSPSC Group 1 key",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#TSPSC%20Group%201%20key",
+        "pubdate": "Sun, 30 Oct 2022 07:30:00 +0530"
+      }
     ],
     [
-      "Ind vs WI",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ind%20vs%20WI"
+      {
+        "title": "Wasim Akram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Wasim%20Akram",
+        "pubdate": "Sun, 30 Oct 2022 14:30:00 +0530"
+      }
     ],
     [
-      "India vs Sri Lanka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Sri%20Lanka"
+      {
+        "title": "Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maradona",
+        "pubdate": "Sun, 30 Oct 2022 14:30:00 +0530"
+      }
     ],
     [
-      "Mithali Raj",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mithali%20Raj"
+      {
+        "title": "New Zealand vs Sri Lanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#New%20Zealand%20vs%20Sri%20Lanka",
+        "pubdate": "Sat, 29 Oct 2022 14:30:00 +0530"
+      }
     ],
     [
-      "Hyderabad vs ATK Mohun Bagan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyderabad%20vs%20ATK%20Mohun%20Bagan"
+      {
+        "title": "IND vs SA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20SA",
+        "pubdate": "Sat, 29 Oct 2022 17:30:00 +0530"
+      }
     ],
     [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Brighton%20vs%20Liverpool"
+      {
+        "title": "Bangladesh vs Zimbabwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bangladesh%20vs%20Zimbabwe",
+        "pubdate": "Sat, 29 Oct 2022 10:30:00 +0530"
+      }
     ],
     [
-      "Spider-Man",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Spider-Man"
+      {
+        "title": "Myositis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Myositis",
+        "pubdate": "Sat, 29 Oct 2022 15:30:00 +0530"
+      }
     ],
     [
-      "ICC World Cup",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC%20World%20Cup"
+      {
+        "title": "Chhath Puja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chhath%20Puja",
+        "pubdate": "Sat, 29 Oct 2022 17:30:00 +0530"
+      }
     ],
     [
-      "FIR Movie",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FIR%20Movie"
+      {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Brighton%20vs%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 19:30:00 +0530"
+      }
     ],
     [
-      "Shreya Ghoshal",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shreya%20Ghoshal"
+      {
+        "title": "Liverpool vs Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liverpool%20vs%20Leeds%20United",
+        "pubdate": "Sat, 29 Oct 2022 22:30:00 +0530"
+      }
     ],
     [
-      "Cbse.gov.in 2022",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cbse.gov.in%202022"
+      {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 19:30:00 +0530"
+      }
     ],
     [
-      "ICC Womens World Cup 2022 Points Table",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC%20Womens%20World%20Cup%202022%20Points%20Table"
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
+        "pubdate": "Sat, 29 Oct 2022 18:30:00 +0530"
+      }
     ],
     [
-      "FIR",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FIR"
+      {
+        "title": "SBI Clerk Admit Card",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SBI%20Clerk%20Admit%20Card",
+        "pubdate": "Sat, 29 Oct 2022 16:30:00 +0530"
+      }
     ],
     [
-      "Atif Aslam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Atif%20Aslam"
+      {
+        "title": "CSIR NET",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CSIR%20NET",
+        "pubdate": "Sat, 29 Oct 2022 07:30:00 +0530"
+      }
     ],
     [
-      "Prashant Kishor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prashant%20Kishor"
+      {
+        "title": "Myositis symptoms",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Myositis%20symptoms",
+        "pubdate": "Sat, 29 Oct 2022 20:30:00 +0530"
+      }
     ]
   ]
 }

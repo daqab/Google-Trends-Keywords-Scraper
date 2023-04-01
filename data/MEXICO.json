@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:00",
+  "lastUpdate": "30-10-2022 , 10:57:16",
   "data": [
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20United"
+      {
+        "title": "La Bruja de Blair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20Bruja%20de%20Blair",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 -0500"
+      }
     ],
     [
-      "Brighton  Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20%20Liverpool"
+      {
+        "title": "Cambio de horario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cambio%20de%20horario",
+        "pubdate": "Sat, 29 Oct 2022 08:00:00 -0500"
+      }
     ],
     [
-      "Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juventus"
+      {
+        "title": "Valencia CF vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20vs%20Barcelona",
+        "pubdate": "Sat, 29 Oct 2022 02:00:00 -0500"
+      }
     ],
     [
-      "Hoffenheim  Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hoffenheim%20%20Bayern"
+      {
+        "title": "PSG vs Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG%20vs%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 -0500"
+      }
     ],
     [
-      "Hoffenheim vs Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hoffenheim%20vs%20Bayern"
+      {
+        "title": "Corea del Sur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Corea%20del%20Sur",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 -0500"
+      }
     ],
     [
-      "Clima Veracruz",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Veracruz"
+      {
+        "title": "Cuando se cambia el horario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuando%20se%20cambia%20el%20horario",
+        "pubdate": "Sat, 29 Oct 2022 07:00:00 -0500"
+      }
     ],
     [
-      "Gerardo rozin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gerardo%20rozin"
+      {
+        "title": "Leicester City vs Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leicester%20City%20vs%20Manchester%20City",
+        "pubdate": "Sat, 29 Oct 2022 04:00:00 -0500"
+      }
     ],
     [
-      "Leon vs Tigres",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leon%20vs%20Tigres"
+      {
+        "title": "Napoli  Sassuolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Sassuolo",
+        "pubdate": "Sat, 29 Oct 2022 08:00:00 -0500"
+      }
     ],
     [
-      "Erase una vez",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Erase%20una%20vez"
+      {
+        "title": "Copa Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Copa%20Libertadores",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 -0500"
+      }
     ],
     [
-      "Mazatlan FC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mazatlan%20FC"
+      {
+        "title": "Liverpool vs Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liverpool%20vs%20Leeds",
+        "pubdate": "Sat, 29 Oct 2022 14:00:00 -0500"
+      }
     ],
     [
-      "Necaxa  Querétaro",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Necaxa%20%20Quer%C3%A9taro"
+      {
+        "title": "Gran Premio de mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gran%20Premio%20de%20mexico",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 -0500"
+      }
     ],
     [
-      "Monterrey  Mazatlán",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monterrey%20%20Mazatl%C3%A1n"
+      {
+        "title": "Bayern vs Mainz 05",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern%20vs%20Mainz%2005",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 -0500"
+      }
     ],
     [
-      "Juárez  Atlas",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ju%C3%A1rez%20%20Atlas"
+      {
+        "title": "Cádiz vs Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#C%C3%A1diz%20vs%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 -0500"
+      }
     ],
     [
-      "Atlético Madrid  Cádiz",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atl%C3%A9tico%20Madrid%20%20C%C3%A1diz"
+      {
+        "title": "Brighton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20vs%20Chelsea",
+        "pubdate": "Sat, 29 Oct 2022 09:00:00 -0500"
+      }
     ],
     [
-      "Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Red"
+      {
+        "title": "Lecce vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lecce%20vs%20Juventus",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0500"
+      }
     ],
     [
-      "Parlamento Europeo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Parlamento%20Europeo"
+      {
+        "title": "Frankfurt vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Frankfurt%20vs%20Dortmund",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0500"
+      }
     ],
     [
-      "Morbius",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Morbius"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 -0500"
+      }
     ],
     [
-      "Proyecto Adam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Proyecto%20Adam"
+      {
+        "title": "Jake Paul vs Anderson Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jake%20Paul%20vs%20Anderson%20Silva",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 -0500"
+      }
     ],
     [
-      "UANL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UANL"
+      {
+        "title": "Sevilla vs Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sevilla%20vs%20Rayo%20Vallecano",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 -0500"
+      }
     ],
     [
-      "America vs Chivas",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20Chivas"
+      {
+        "title": "Bournemouth vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bournemouth%20vs%20Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 10:00:00 -0500"
+      }
     ]
   ]
 }

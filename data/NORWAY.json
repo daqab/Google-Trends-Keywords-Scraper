@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:00",
+  "lastUpdate": "30-10-2022 , 10:57:17",
   "data": [
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United"
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
+        "pubdate": "Sun, 30 Oct 2022 02:00:00 +0200"
+      }
     ],
     [
-      "Vikersund",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vikersund"
+      {
+        "title": "Angelina Jolie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Angelina%20Jolie",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Daniel Franck",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniel%20Franck"
+      {
+        "title": "Ingrid Gjessing Linhave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Gjessing%20Linhave",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "KFUM",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KFUM"
+      {
+        "title": "Stille klokka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stille%20klokka",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 +0200"
+      }
     ],
     [
-      "Viking",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking"
+      {
+        "title": "Maud Angelica Behn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Maud%20Angelica%20Behn",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Didrik Tønseth",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Didrik%20T%C3%B8nseth"
+      {
+        "title": "Jerry Lee Lewis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jerry%20Lee%20Lewis",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0200"
+      }
     ],
     [
-      "Trond Giske",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trond%20Giske"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0200"
+      }
     ],
     [
-      "Erna Solberg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erna%20Solberg"
+      {
+        "title": "Ruben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ruben",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Falun",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Falun"
+      {
+        "title": "Chris Holsten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chris%20Holsten",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "Sandnes Ulf",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandnes%20Ulf"
+      {
+        "title": "Gresskar Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gresskar%20Halloween",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 +0200"
+      }
     ],
     [
-      "Lars Monsen",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lars%20Monsen"
+      {
+        "title": "Erik Follestad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erik%20Follestad",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Nils Jakob Hoff",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nils%20Jakob%20Hoff"
+      {
+        "title": "Liverpool Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20Leeds",
+        "pubdate": "Sat, 29 Oct 2022 23:00:00 +0200"
+      }
     ],
     [
-      "Finnmarksløpet",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Finnmarksl%C3%B8pet"
+      {
+        "title": "Aurora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurora",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0200"
+      }
     ],
     [
-      "Nortura",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nortura"
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Sat, 29 Oct 2022 18:00:00 +0200"
+      }
     ],
     [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jussie%20Smollett"
+      {
+        "title": "Seoul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Seoul",
+        "pubdate": "Sat, 29 Oct 2022 23:00:00 +0200"
+      }
     ],
     [
-      "Egypt",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Egypt"
+      {
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
+        "pubdate": "Sat, 29 Oct 2022 23:00:00 +0200"
+      }
     ],
     [
-      "Louise Angelica Riise",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Louise%20Angelica%20Riise"
+      {
+        "title": "Isabelle Ringnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Isabelle%20Ringnes",
+        "pubdate": "Sat, 29 Oct 2022 03:00:00 +0200"
+      }
     ],
     [
-      "Karoline Knotten",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Karoline%20Knotten"
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Madonna",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 +0200"
+      }
     ],
     [
-      "Strømstøtte",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8mst%C3%B8tte"
+      {
+        "title": "Filter Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Filter%20Nyheter",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0200"
+      }
     ],
     [
-      "Sebastian The Voice",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sebastian%20The%20Voice"
+      {
+        "title": "Fisker Ocean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fisker%20Ocean",
+        "pubdate": "Sat, 29 Oct 2022 00:00:00 +0200"
+      }
     ]
   ]
 }

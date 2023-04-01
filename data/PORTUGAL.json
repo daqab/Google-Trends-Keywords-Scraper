@@ -1,85 +1,145 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "30-10-2022 , 10:57:18",
   "data": [
     [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United"
+      {
+        "title": "Horario brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Horario%20brasil",
+        "pubdate": "Sun, 30 Oct 2022 07:00:00 +0000"
+      }
     ],
     [
-      "Bernardo Sousa",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bernardo%20Sousa"
+      {
+        "title": "TSF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TSF",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0000"
+      }
     ],
     [
-      "Fernanda Serrano",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernanda%20Serrano"
+      {
+        "title": "Eleições Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elei%C3%A7%C3%B5es%20Brasil",
+        "pubdate": "Sun, 30 Oct 2022 08:00:00 +0000"
+      }
     ],
     [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool"
+      {
+        "title": "Bloom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bloom",
+        "pubdate": "Sun, 30 Oct 2022 00:00:00 +0100"
+      }
     ],
     [
-      "Famalicão - Santa Clara",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20-%20Santa%20Clara"
+      {
+        "title": "Goiás  Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Goi%C3%A1s%20%20Corinthians",
+        "pubdate": "Sun, 30 Oct 2022 01:00:00 +0000"
+      }
     ],
     [
-      "Sampdoria  Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sampdoria%20%20Juventus"
+      {
+        "title": "Zambelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zambelli",
+        "pubdate": "Sun, 30 Oct 2022 09:00:00 +0000"
+      }
     ],
     [
-      "Bielorrússia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bielorr%C3%BAssia"
+      {
+        "title": "Napoles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Napoles",
+        "pubdate": "Sun, 30 Oct 2022 10:00:00 +0000"
+      }
     ],
     [
-      "Estoril-Portimonense",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril-Portimonense"
+      {
+        "title": "Arouca  Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca%20%20Sporting",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0100"
+      }
     ],
     [
-      "Hoffenheim  Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoffenheim%20%20Bayern"
+      {
+        "title": "Flamengo vs Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20vs%20Athletico-PR",
+        "pubdate": "Sat, 29 Oct 2022 12:00:00 +0100"
+      }
     ],
     [
-      "Rio Ave",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave"
+      {
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 +0100"
+      }
     ],
     [
-      "ISP",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ISP"
+      {
+        "title": "Arouca vs Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca%20vs%20Sporting",
+        "pubdate": "Sat, 29 Oct 2022 13:00:00 +0100"
+      }
     ],
     [
-      "Sérgio Conceição",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A9rgio%20Concei%C3%A7%C3%A3o"
+      {
+        "title": "PSG  Troyes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Troyes",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0100"
+      }
     ],
     [
-      "Ryan Reynolds",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ryan%20Reynolds"
+      {
+        "title": "Coreia do Sul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coreia%20do%20Sul",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0100"
+      }
     ],
     [
-      "Agir",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Agir"
+      {
+        "title": "Cádiz  Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#C%C3%A1diz%20%20Atl%C3%A9tico%20Madrid",
+        "pubdate": "Sat, 29 Oct 2022 15:00:00 +0100"
+      }
     ],
     [
-      "Príncipe Harry",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pr%C3%ADncipe%20Harry"
+      {
+        "title": "Liam Hemsworth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liam%20Hemsworth",
+        "pubdate": "Sat, 29 Oct 2022 21:00:00 +0100"
+      }
     ],
     [
-      "Fulham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fulham"
+      {
+        "title": "Jake Paul vs Anderson Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jake%20Paul%20vs%20Anderson%20Silva",
+        "pubdate": "Sat, 29 Oct 2022 11:00:00 +0100"
+      }
     ],
     [
-      "Jose Cid",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jose%20Cid"
+      {
+        "title": "Liverpool  Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Leeds",
+        "pubdate": "Sat, 29 Oct 2022 19:00:00 +0100"
+      }
     ],
     [
-      "Daniel Ricciardo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Daniel%20Ricciardo"
+      {
+        "title": "Horario de verao Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Horario%20de%20verao%20Portugal",
+        "pubdate": "Sat, 29 Oct 2022 16:00:00 +0100"
+      }
     ],
     [
-      "AROUCA  P. FERREIRA",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AROUCA%20%20P.%20FERREIRA"
+      {
+        "title": "Carla Zambelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carla%20Zambelli",
+        "pubdate": "Sat, 29 Oct 2022 22:00:00 +0100"
+      }
     ],
     [
-      "Rally Serras de Fafe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rally%20Serras%20de%20Fafe"
+      {
+        "title": "Valencia  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valencia%20%20Barcelona",
+        "pubdate": "Sat, 29 Oct 2022 20:00:00 +0100"
+      }
     ]
   ]
 }
