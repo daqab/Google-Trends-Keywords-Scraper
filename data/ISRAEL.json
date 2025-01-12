@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:59",
+  "lastUpdate": "12-01-2025 , 05:52:08",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Manchester%20United"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "אליעזר גולדברג",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8%20%D7%92%D7%95%D7%9C%D7%93%D7%91%D7%A8%D7%92"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#The%20Adam%20Project"
-    ],
-    [
-      "עובדה",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%95%D7%91%D7%93%D7%94"
-    ],
-    [
-      "ישי ריבו",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A9%D7%99%20%D7%A8%D7%99%D7%91%D7%95"
-    ],
-    [
-      "קורטני קוקס",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A7%D7%95%D7%A8%D7%98%D7%A0%D7%99%20%D7%A7%D7%95%D7%A7%D7%A1"
-    ],
-    [
-      "חוק האזרחות",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%95%D7%A7%20%D7%94%D7%90%D7%96%D7%A8%D7%97%D7%95%D7%AA"
-    ],
-    [
-      "ברצלונה",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94"
-    ],
-    [
-      "משרד החינוך",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A9%D7%A8%D7%93%20%D7%94%D7%97%D7%99%D7%A0%D7%95%D7%9A"
-    ],
-    [
-      "דנית גרינברג",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%A0%D7%99%D7%AA%20%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%A8%D7%92"
-    ],
-    [
-      "ניימאר",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%99%D7%99%D7%9E%D7%90%D7%A8"
-    ],
-    [
-      "הפועל ירושלים",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D"
-    ],
-    [
-      "מחיר מטרה",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%97%D7%99%D7%A8%20%D7%9E%D7%98%D7%A8%D7%94"
-    ],
-    [
-      "מרב מיכאלי",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A8%D7%91%20%D7%9E%D7%99%D7%9B%D7%90%D7%9C%D7%99"
-    ],
-    [
-      "ריאל מדריד",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%99%D7%90%D7%9C%20%D7%9E%D7%93%D7%A8%D7%99%D7%93"
-    ],
-    [
-      "Real Madrid vs PSG",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Real%20Madrid%20vs%20PSG"
-    ],
-    [
-      "בנימין נתניהו",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95"
-    ],
-    [
-      "ינון מגל",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A0%D7%95%D7%9F%20%D7%9E%D7%92%D7%9C"
-    ],
-    [
-      "ארדואן",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A8%D7%93%D7%95%D7%90%D7%9F"
-    ]
+    {
+      "title": "מפעל הפיס",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A4%D7%A2%D7%9C%20%D7%94%D7%A4%D7%99%D7%A1",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "איתי לוי",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%AA%D7%99%20%D7%9C%D7%95%D7%99",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "מכבי חיפה",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%9B%D7%91%D7%99%20%D7%97%D7%99%D7%A4%D7%94",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "יעל אביב",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A2%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "דוד קוניו",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%95%D7%93%20%D7%A7%D7%95%D7%A0%D7%99%D7%95",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "בני ריינה",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A0%D7%99%20%D7%A8%D7%99%D7%99%D7%A0%D7%94",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 +0200"
+    },
+    {
+      "title": "מכבי נתניה",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%9B%D7%91%D7%99%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "אבי שושן",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%91%D7%99%20%D7%A9%D7%95%D7%A9%D7%9F",
+      "pubdate": "Sat, 11 Jan 2025 23:00:00 +0200"
+    },
+    {
+      "title": "אמיר ברעם",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9E%D7%99%D7%A8%20%D7%91%D7%A8%D7%A2%D7%9D",
+      "pubdate": "Fri, 10 Jan 2025 22:00:00 +0200"
+    },
+    {
+      "title": "הפועל תל אביב",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+      "pubdate": "Fri, 10 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "הדס קליין",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%93%D7%A1%20%D7%A7%D7%9C%D7%99%D7%99%D7%9F",
+      "pubdate": "Fri, 10 Jan 2025 22:00:00 +0200"
+    },
+    {
+      "title": "דוד זיני",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%95%D7%93%20%D7%96%D7%99%D7%A0%D7%99",
+      "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Jimmy%20Carter",
+      "pubdate": "Fri, 10 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "צום עשרה בטבת",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6%D7%95%D7%9D%20%D7%A2%D7%A9%D7%A8%D7%94%20%D7%91%D7%98%D7%91%D7%AA",
+      "pubdate": "Thu, 09 Jan 2025 07:00:00 +0200"
+    },
+    {
+      "title": "עידו אקסברד",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A2%D7%99%D7%93%D7%95%20%D7%90%D7%A7%D7%A1%D7%91%D7%A8%D7%93",
+      "pubdate": "Thu, 09 Jan 2025 20:00:00 +0200"
+    },
+    {
+      "title": "רועי יפרח",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%95%D7%A2%D7%99%20%D7%99%D7%A4%D7%A8%D7%97",
+      "pubdate": "Thu, 09 Jan 2025 23:00:00 +0200"
+    },
+    {
+      "title": "יזהר שי",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%96%D7%94%D7%A8%20%D7%A9%D7%99",
+      "pubdate": "Thu, 09 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "נבו פישר",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%91%D7%95%20%D7%A4%D7%99%D7%A9%D7%A8",
+      "pubdate": "Thu, 09 Jan 2025 01:00:00 +0200"
+    },
+    {
+      "title": "אלמוג כהן",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%9E%D7%95%D7%92%20%D7%9B%D7%94%D7%9F",
+      "pubdate": "Thu, 09 Jan 2025 08:00:00 +0200"
+    },
+    {
+      "title": "טוטו תמוז",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%98%D7%95%D7%98%D7%95%20%D7%AA%D7%9E%D7%95%D7%96",
+      "pubdate": "Thu, 09 Jan 2025 14:00:00 +0200"
+    }
   ]
 }

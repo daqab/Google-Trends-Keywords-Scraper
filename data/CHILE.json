@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:56",
+  "lastUpdate": "12-01-2025 , 05:52:05",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United"
-    ],
-    [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool"
-    ],
-    [
-      "Coquimbo Unido vs Ñublense",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido%20vs%20%C3%91ublense"
-    ],
-    [
-      "Sampdoria  Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sampdoria%20%20Juventus"
-    ],
-    [
-      "Gerardo rozin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gerardo%20rozin"
-    ],
-    [
-      "Hoffenheim  Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hoffenheim%20%20Bayern"
-    ],
-    [
-      "Plan Paso a Paso",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Plan%20Paso%20a%20Paso"
-    ],
-    [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers"
-    ],
-    [
-      "Mega",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mega"
-    ],
-    [
-      "Camila Vallejo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Camila%20Vallejo"
-    ],
-    [
-      "TVN",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN"
-    ],
-    [
-      "Alvaro Elizalde",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alvaro%20Elizalde"
-    ],
-    [
-      "24Horas",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#24Horas"
-    ],
-    [
-      "La Serena  Cobresal",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Serena%20%20Cobresal"
-    ],
-    [
-      "Discípulo del Chef",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Disc%C3%ADpulo%20del%20Chef"
-    ],
-    [
-      "Izkia Siches",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Izkia%20Siches"
-    ],
-    [
-      "Canal 13",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canal%2013"
-    ],
-    [
-      "Yamil Asad",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Yamil%20Asad"
-    ],
-    [
-      "Ford Galaxie",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ford%20Galaxie"
-    ],
-    [
-      "Proyecto Adam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Proyecto%20Adam"
-    ]
+    {
+      "title": "Amistosos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amistosos",
+      "pubdate": "Sun, 12 Jan 2025 01:00:00 -0300"
+    },
+    {
+      "title": "Udechile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udechile",
+      "pubdate": "Sat, 11 Jan 2025 03:00:00 -0300"
+    },
+    {
+      "title": "Manchester City  Salford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20%20Salford",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 -0300"
+    },
+    {
+      "title": "Udinese - Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20-%20Atalanta",
+      "pubdate": "Sat, 11 Jan 2025 11:00:00 -0300"
+    },
+    {
+      "title": "Liverpool  Accrington",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20Accrington",
+      "pubdate": "Sat, 11 Jan 2025 09:00:00 -0300"
+    },
+    {
+      "title": "Universidad catolica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 -0300"
+    },
+    {
+      "title": "Fiesta Grado 3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fiesta%20Grado%203",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 -0300"
+    },
+    {
+      "title": "Milan - Cagliari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan%20-%20Cagliari",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 -0300"
+    },
+    {
+      "title": "Torino - Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Torino%20-%20Juventus",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 -0300"
+    },
+    {
+      "title": "Valladolid - Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valladolid%20-%20Betis",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 -0300"
+    },
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 -0300"
+    },
+    {
+      "title": "Barcelona vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 11 Jan 2025 23:00:00 -0300"
+    },
+    {
+      "title": "Fernando farias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fernando%20farias",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 -0300"
+    },
+    {
+      "title": "Ander Herrera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ander%20Herrera",
+      "pubdate": "Sat, 11 Jan 2025 02:00:00 -0300"
+    },
+    {
+      "title": "Alavés - Girona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alav%C3%A9s%20-%20Girona",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 -0300"
+    },
+    {
+      "title": "Pamela Diaz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pamela%20Diaz",
+      "pubdate": "Sat, 11 Jan 2025 02:00:00 -0300"
+    },
+    {
+      "title": "Puente Alto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Puente%20Alto",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 -0300"
+    },
+    {
+      "title": "Williams Alarcón",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Williams%20Alarc%C3%B3n",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 -0300"
+    },
+    {
+      "title": "Nicolás Maduro Venezuela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Maduro%20Venezuela",
+      "pubdate": "Fri, 10 Jan 2025 01:00:00 -0300"
+    },
+    {
+      "title": "Dortmund  Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20%20Leverkusen",
+      "pubdate": "Fri, 10 Jan 2025 17:00:00 -0300"
+    }
   ]
 }

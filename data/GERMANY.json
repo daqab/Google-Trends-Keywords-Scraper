@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:57",
+  "lastUpdate": "12-01-2025 , 05:52:07",
   "data": [
-    [
-      "Hoffenheim gegen Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hoffenheim%20gegen%20Bayern"
-    ],
-    [
-      "Laubenbacher",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laubenbacher"
-    ],
-    [
-      "Dynamo Dresden",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden"
-    ],
-    [
-      "Anna Sorokin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anna%20Sorokin"
-    ],
-    [
-      "Moldau",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20United"
-    ],
-    [
-      "Schlag den Star",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlag%20den%20Star"
-    ],
-    [
-      "Fortuna Düsseldorf",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fortuna%20D%C3%BCsseldorf"
-    ],
-    [
-      "Eintracht Braunschweig",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig"
-    ],
-    [
-      "Jürgen Grabowski",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Grabowski"
-    ],
-    [
-      "HSV",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Adam%20Project"
-    ],
-    [
-      "Bernd Neuendorf",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bernd%20Neuendorf"
-    ],
-    [
-      "Hansa Rostock",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hansa%20Rostock"
-    ],
-    [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chelsea"
-    ],
-    [
-      "Mathias Mester",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mathias%20Mester"
-    ],
-    [
-      "Zagreb",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zagreb"
-    ],
-    [
-      "Skiflug-WM",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Skiflug-WM"
-    ],
-    [
-      "Skifliegen heute",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Skifliegen%20heute"
-    ],
-    [
-      "Schröder",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schr%C3%B6der"
-    ]
+    {
+      "title": "AfD-Parteitag Riesa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Parteitag%20Riesa",
+      "pubdate": "Sat, 11 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "St. Pauli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Maul- und Klauenseuche Brandenburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maul-%20und%20Klauenseuche%20Brandenburg",
+      "pubdate": "Fri, 10 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Schnee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schnee",
+      "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Biathlon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
+      "pubdate": "Thu, 09 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Handball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
+      "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Los Angeles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Los%20Angeles",
+      "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Alice Weidel Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel%20Elon%20Musk",
+      "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Feuer Los Angeles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Feuer%20Los%20Angeles",
+      "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Grönland Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gr%C3%B6nland%20Trump",
+      "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Meta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Meta",
+      "pubdate": "Tue, 07 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Timothee Chalamet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Timothee%20Chalamet",
+      "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Kickl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kickl",
+      "pubdate": "Sun, 05 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "FPÖ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FP%C3%96",
+      "pubdate": "Sun, 05 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Bundestagswahl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestagswahl",
+      "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Petition Böllerverbot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Petition%20B%C3%B6llerverbot",
+      "pubdate": "Sat, 04 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Luke Littler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Littler",
+      "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Littler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Littler",
+      "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "New Orleans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#New%20Orleans",
+      "pubdate": "Wed, 01 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Michael van Gerwen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20van%20Gerwen",
+      "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
+    }
   ]
 }

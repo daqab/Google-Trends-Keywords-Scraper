@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:57",
+  "lastUpdate": "12-01-2025 , 05:52:06",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United"
-    ],
-    [
-      "Iffe' Lundberg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iffe'%20Lundberg"
-    ],
-    [
-      "Sailing Yacht A",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sailing%20Yacht%20A"
-    ],
-    [
-      "Brighton  Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Liverpool"
-    ],
-    [
-      "Brentford  Burnley",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Burnley"
-    ],
-    [
-      "F1 news",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1%20news"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Adam%20Project"
-    ],
-    [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jussie%20Smollett"
-    ],
-    [
-      "Chloe Cherry",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chloe%20Cherry"
-    ],
-    [
-      "Chelsea Manning",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20Manning"
-    ],
-    [
-      "Indian Wells",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Indian%20Wells"
-    ],
-    [
-      "Belarus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Belarus"
-    ],
-    [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Turning%20Red"
-    ],
-    [
-      "FC Barcelona",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona"
-    ],
-    [
-      "Tom Hanks",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Hanks"
-    ],
-    [
-      "Holy",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holy"
-    ],
-    [
-      "All! i need",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#All!%20i%20need"
-    ],
-    [
-      "Tommy Lee Jones",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tommy%20Lee%20Jones"
-    ],
-    [
-      "Tiger Woods",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tiger%20Woods"
-    ],
-    [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Grimes"
-    ]
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
+      "pubdate": "Sun, 12 Jan 2025 06:00:00 +0100"
+    },
+    {
+      "title": "Liverpool  Accrington",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Accrington",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Man City  Salford City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Salford%20City",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Brentford  Plymouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Plymouth",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "What Women Want",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#What%20Women%20Want",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Chelsea  Morecambe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20Morecambe",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Jennie Garth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennie%20Garth",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Leicester  QPR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leicester%20%20QPR",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Badminton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Badminton",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Rio Ngumoha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rio%20Ngumoha",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Gen Z",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gen%20Z",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Tesla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
+      "pubdate": "Fri, 10 Jan 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Dime",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dime",
+      "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Aston Villa  West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa%20%20West%20Ham",
+      "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Mel Gibson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mel%20Gibson",
+      "pubdate": "Fri, 10 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Justin Baldoni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Justin%20Baldoni",
+      "pubdate": "Fri, 10 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Everton",
+      "pubdate": "Fri, 10 Jan 2025 06:00:00 +0100"
+    },
+    {
+      "title": "Robots",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robots",
+      "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "WTO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#WTO",
+      "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
+    }
   ]
 }

@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:02",
+  "lastUpdate": "12-01-2025 , 05:52:12",
   "data": [
-    [
-      "FCZ",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCZ"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United"
-    ],
-    [
-      "Kranjska Gora",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kranjska%20Gora"
-    ],
-    [
-      "Janin Ullmann",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Janin%20Ullmann"
-    ],
-    [
-      "6 Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#6%20Nations"
-    ],
-    [
-      "Hoffenheim gegen Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hoffenheim%20gegen%20Bayern"
-    ],
-    [
-      "Belarus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Belarus"
-    ],
-    [
-      "Sampdoria  Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sampdoria%20%20Juventus"
-    ],
-    [
-      "Manunited gegen Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manunited%20gegen%20Tottenham"
-    ],
-    [
-      "Engadin Skimarathon",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Engadin%20Skimarathon"
-    ],
-    [
-      "Silvia Laubenbacher",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silvia%20Laubenbacher"
-    ],
-    [
-      "Brighton – Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brighton%20%E2%80%93%20Liverpool"
-    ],
-    [
-      "Bastian Bielendorfer",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bastian%20Bielendorfer"
-    ],
-    [
-      "ISS",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ISS"
-    ],
-    [
-      "Sci-Hub",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sci-Hub"
-    ],
-    [
-      "Jim Carrey",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jim%20Carrey"
-    ],
-    [
-      "Toto Wolff",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Toto%20Wolff"
-    ],
-    [
-      "Atletico Madrid",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atletico%20Madrid"
-    ],
-    [
-      "Camille Rast",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Camille%20Rast"
-    ],
-    [
-      "Raif Badawi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raif%20Badawi"
-    ]
+    {
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
+      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Camelia Jordana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Camelia%20Jordana",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "NFL-Playoffs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL-Playoffs",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "ZSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Maite Kelly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maite%20Kelly",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Michelle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Sarah Engels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarah%20Engels",
+      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "St. Anton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.%20Anton",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Mönchengladbach – Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#M%C3%B6nchengladbach%20%E2%80%93%20Bayern",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Slalom Adelboden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slalom%20Adelboden",
+      "pubdate": "Sat, 11 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Torino  Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Torino%20%20Juventus",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FA%20Cup",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Lady Gaga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lady%20Gaga",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "FC Basel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Lucas Pinheiro Braathen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lucas%20Pinheiro%20Braathen",
+      "pubdate": "Sat, 11 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "Sting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sting",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Adelboden Weltcup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adelboden%20Weltcup",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Viola Amherd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Viola%20Amherd",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Vigilance neige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vigilance%20neige",
+      "pubdate": "Sat, 11 Jan 2025 08:00:00 +0100"
+    }
   ]
 }

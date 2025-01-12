@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:02",
+  "lastUpdate": "12-01-2025 , 05:52:12",
   "data": [
-    [
-      "Petra Mede",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Petra%20Mede"
-    ],
-    [
-      "FRA",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FRA"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United"
-    ],
-    [
-      "Melodifestivalen",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melodifestivalen"
-    ],
-    [
-      "Calle Halfvarsson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Calle%20Halfvarsson"
-    ],
-    [
-      "Pete Davidson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pete%20Davidson"
-    ],
-    [
-      "Torbjörn Törnqvist",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Torbj%C3%B6rn%20T%C3%B6rnqvist"
-    ],
-    [
-      "Melodifestivalen 2022 final",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melodifestivalen%202022%20final"
-    ],
-    [
-      "Pernilla Wahlgren",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pernilla%20Wahlgren"
-    ],
-    [
-      "Tommy Nilsson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tommy%20Nilsson"
-    ],
-    [
-      "Anders Bagge",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Bagge"
-    ],
-    [
-      "Bert Karlsson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bert%20Karlsson"
-    ],
-    [
-      "Högskoleprovet",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%B6gskoleprovet"
-    ],
-    [
-      "Valross",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Valross"
-    ],
-    [
-      "Ghost",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ghost"
-    ],
-    [
-      "Jonna Sundling",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonna%20Sundling"
-    ],
-    [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jussie%20Smollett"
-    ],
-    [
-      "Udda veckor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Udda%20veckor"
-    ],
-    [
-      "Ant Wan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ant%20Wan"
-    ],
-    [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Turning%20Red"
-    ]
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
+      "pubdate": "Sun, 12 Jan 2025 03:00:00 +0100"
+    },
+    {
+      "title": "Janne Schaffer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Janne%20Schaffer",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Ida Dahl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ida%20Dahl",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Sutton Foster",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sutton%20Foster",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "IBK Lund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IBK%20Lund",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Bianca Ingrosso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bianca%20Ingrosso",
+      "pubdate": "Sat, 11 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Clara Henry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Clara%20Henry",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "FA-cupen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-cupen",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Ski Classics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ski%20Classics",
+      "pubdate": "Sat, 11 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Island",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Elvira Öberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elvira%20%C3%96berg",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Tom Cruise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Cruise",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
+      "pubdate": "Sat, 11 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Sigge Eklund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sigge%20Eklund",
+      "pubdate": "Fri, 10 Jan 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Frida Gustavsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frida%20Gustavsson",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Bäst i test 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%A4st%20i%20test%202025",
+      "pubdate": "Fri, 10 Jan 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Tesla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tesla",
+      "pubdate": "Fri, 10 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Rögle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
+      "pubdate": "Fri, 10 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Christine Meltzer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christine%20Meltzer",
+      "pubdate": "Fri, 10 Jan 2025 23:00:00 +0100"
+    }
   ]
 }

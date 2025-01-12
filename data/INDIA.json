@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:58",
+  "lastUpdate": "12-01-2025 , 05:52:08",
   "data": [
-    [
-      "Harmanpreet Kaur",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Harmanpreet%20Kaur"
-    ],
-    [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australia%20vs%20Pakistan"
-    ],
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "RCB captain 2022",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#RCB%20captain%202022"
-    ],
-    [
-      "Maaran",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maaran"
-    ],
-    [
-      "Smriti Mandhana",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Smriti%20Mandhana"
-    ],
-    [
-      "Ind vs WI",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ind%20vs%20WI"
-    ],
-    [
-      "India vs Sri Lanka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Sri%20Lanka"
-    ],
-    [
-      "Mithali Raj",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mithali%20Raj"
-    ],
-    [
-      "Hyderabad vs ATK Mohun Bagan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyderabad%20vs%20ATK%20Mohun%20Bagan"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Spider-Man",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Spider-Man"
-    ],
-    [
-      "ICC World Cup",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC%20World%20Cup"
-    ],
-    [
-      "FIR Movie",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FIR%20Movie"
-    ],
-    [
-      "Shreya Ghoshal",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shreya%20Ghoshal"
-    ],
-    [
-      "Cbse.gov.in 2022",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cbse.gov.in%202022"
-    ],
-    [
-      "ICC Womens World Cup 2022 Points Table",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC%20Womens%20World%20Cup%202022%20Points%20Table"
-    ],
-    [
-      "FIR",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FIR"
-    ],
-    [
-      "Atif Aslam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Atif%20Aslam"
-    ],
-    [
-      "Prashant Kishor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prashant%20Kishor"
-    ]
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FA%20Cup",
+      "pubdate": "Sun, 12 Jan 2025 02:30:00 +0530"
+    },
+    {
+      "title": "Swami Vivekananda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Swami%20Vivekananda",
+      "pubdate": "Sun, 12 Jan 2025 07:30:00 +0530"
+    },
+    {
+      "title": "BCCI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BCCI",
+      "pubdate": "Sun, 12 Jan 2025 00:30:00 +0530"
+    },
+    {
+      "title": "DMart Q3 Results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#DMart%20Q3%20Results",
+      "pubdate": "Sun, 12 Jan 2025 07:30:00 +0530"
+    },
+    {
+      "title": "Mohammed Shami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammed%20Shami",
+      "pubdate": "Sun, 12 Jan 2025 10:30:00 +0530"
+    },
+    {
+      "title": "Los Angeles news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Los%20Angeles%20news",
+      "pubdate": "Sat, 11 Jan 2025 01:30:00 +0530"
+    },
+    {
+      "title": "Dasun Shanaka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dasun%20Shanaka",
+      "pubdate": "Sat, 11 Jan 2025 07:30:00 +0530"
+    },
+    {
+      "title": "Ram Mandir",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ram%20Mandir",
+      "pubdate": "Sat, 11 Jan 2025 15:30:00 +0530"
+    },
+    {
+      "title": "Interstellar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Interstellar",
+      "pubdate": "Sat, 11 Jan 2025 09:30:00 +0530"
+    },
+    {
+      "title": "Game Changer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer",
+      "pubdate": "Fri, 10 Jan 2025 07:30:00 +0530"
+    },
+    {
+      "title": "Game Changer Box Office Collection",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20Box%20Office%20Collection",
+      "pubdate": "Fri, 10 Jan 2025 23:30:00 +0530"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FA%20Cup",
+      "pubdate": "Fri, 10 Jan 2025 02:30:00 +0530"
+    },
+    {
+      "title": "Black warrant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Black%20warrant",
+      "pubdate": "Fri, 10 Jan 2025 19:30:00 +0530"
+    },
+    {
+      "title": "INDW vs IREW",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#INDW%20vs%20IREW",
+      "pubdate": "Fri, 10 Jan 2025 15:30:00 +0530"
+    },
+    {
+      "title": "Toyota Innova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Toyota%20Innova",
+      "pubdate": "Fri, 10 Jan 2025 23:30:00 +0530"
+    },
+    {
+      "title": "Los Angeles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Los%20Angeles",
+      "pubdate": "Thu, 09 Jan 2025 08:30:00 +0530"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
+      "pubdate": "Thu, 09 Jan 2025 01:30:00 +0530"
+    },
+    {
+      "title": "Fateh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Fateh",
+      "pubdate": "Thu, 09 Jan 2025 18:30:00 +0530"
+    },
+    {
+      "title": "P Jayachandran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#P%20Jayachandran",
+      "pubdate": "Thu, 09 Jan 2025 21:30:00 +0530"
+    },
+    {
+      "title": "Tirupati",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tirupati",
+      "pubdate": "Thu, 09 Jan 2025 01:30:00 +0530"
+    }
   ]
 }

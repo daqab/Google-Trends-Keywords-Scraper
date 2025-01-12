@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:59",
+  "lastUpdate": "12-01-2025 , 05:52:09",
   "data": [
-    [
-      "Kalonzo Musyoka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kalonzo%20Musyoka"
-    ],
-    [
-      "Getafe vs Valencia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Getafe%20vs%20Valencia"
-    ],
-    [
-      "Hoffenheim vs Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hoffenheim%20vs%20Bayern"
-    ],
-    [
-      "Sampdoria vs Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sampdoria%20vs%20Juventus"
-    ],
-    [
-      "Fulham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham"
-    ],
-    [
-      "Millwall vs Middlesbrough",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Millwall%20vs%20Middlesbrough"
-    ],
-    [
-      "Angers vs Reims",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Angers%20vs%20Reims"
-    ],
-    [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Traci%20Braxton"
-    ],
-    [
-      "Lakers vs Wizards",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakers%20vs%20Wizards"
-    ],
-    [
-      "Blackpool vs Swansea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blackpool%20vs%20Swansea"
-    ],
-    [
-      "Everton vs Wolves",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Wolves"
-    ],
-    [
-      "Milan vs Empoli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Empoli"
-    ],
-    [
-      "Brentford FC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford%20FC"
-    ],
-    [
-      "Chelsea vs Newcastle",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Newcastle"
-    ],
-    [
-      "Freiburg vs Wolfsburg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Freiburg%20vs%20Wolfsburg"
-    ],
-    [
-      "Sunderland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sunderland"
-    ],
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Epl table",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Epl%20table"
-    ],
-    [
-      "EPL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPL"
-    ]
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
+      "pubdate": "Sun, 12 Jan 2025 02:00:00 +0300"
+    },
+    {
+      "title": "Man City vs Salford City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Salford%20City",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0300"
+    },
+    {
+      "title": "Chelsea vs Morecambe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Morecambe",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Bristol City vs Wolves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bristol%20City%20vs%20Wolves",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 +0300"
+    },
+    {
+      "title": "Milan vs Cagliari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Cagliari",
+      "pubdate": "Sat, 11 Jan 2025 23:00:00 +0300"
+    },
+    {
+      "title": "Torino vs Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Torino%20vs%20Juventus",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0300"
+    },
+    {
+      "title": "Arsenal vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Man%20United",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0300"
+    },
+    {
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20Munich",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0300"
+    },
+    {
+      "title": "Real Madrid vs Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Barcelona",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bundesliga",
+      "pubdate": "Sat, 11 Jan 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Rio Ngumoha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rio%20Ngumoha",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "Museveni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Museveni",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "Wolves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0300"
+    },
+    {
+      "title": "NAC Breda vs sc Heerenveen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NAC%20Breda%20vs%20sc%20Heerenveen",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0300"
+    },
+    {
+      "title": "Lazio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lazio",
+      "pubdate": "Sat, 11 Jan 2025 09:00:00 +0300"
+    },
+    {
+      "title": "Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Celtic",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0300"
+    },
+    {
+      "title": "Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Shabana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Shabana",
+      "pubdate": "Sat, 11 Jan 2025 23:00:00 +0300"
+    },
+    {
+      "title": "Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dortmund",
+      "pubdate": "Sat, 11 Jan 2025 10:00:00 +0300"
+    }
   ]
 }

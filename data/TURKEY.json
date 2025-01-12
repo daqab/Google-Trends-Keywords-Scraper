@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:03",
+  "lastUpdate": "12-01-2025 , 05:52:12",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United"
-    ],
-    [
-      "Hatayspor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hatayspor"
-    ],
-    [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool"
-    ],
-    [
-      "Manchester United - Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United%20-%20Tottenham"
-    ],
-    [
-      "Esra Ersoy",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Esra%20Ersoy"
-    ],
-    [
-      "Kasımpaşa  Rizespor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kas%C4%B1mpa%C5%9Fa%20%20Rizespor"
-    ],
-    [
-      "Niyazi Koyuncu",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Niyazi%20Koyuncu"
-    ],
-    [
-      "Altay",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Altay"
-    ],
-    [
-      "Tansu Çiller",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tansu%20%C3%87iller"
-    ],
-    [
-      "Tuğçe Kandemir",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tu%C4%9F%C3%A7e%20Kandemir"
-    ],
-    [
-      "Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus"
-    ],
-    [
-      "PAZARTESİ OKULLAR TATİL Mİ",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PAZARTES%C4%B0%20OKULLAR%20TAT%C4%B0L%20M%C4%B0"
-    ],
-    [
-      "Hoffenheim  Bayern Münih",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hoffenheim%20%20Bayern%20M%C3%BCnih"
-    ],
-    [
-      "Alanyaspor  Fenerbahçe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20%20Fenerbah%C3%A7e"
-    ],
-    [
-      "Devlet Bahçeli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli"
-    ],
-    [
-      "Erzurum deprem",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem"
-    ],
-    [
-      "Yıldız Tilbe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Y%C4%B1ld%C4%B1z%20Tilbe"
-    ],
-    [
-      "Kıyamet filmi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#K%C4%B1yamet%20filmi"
-    ],
-    [
-      "Özer Hurmacı",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zer%20Hurmac%C4%B1"
-    ],
-    [
-      "Belarus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Belarus"
-    ]
+    {
+      "title": "Rafa Silva",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rafa%20Silva",
+      "pubdate": "Sun, 12 Jan 2025 03:00:00 +0300"
+    },
+    {
+      "title": "PSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSV",
+      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Hawks  Rockets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hawks%20%20Rockets",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Beşiktaş  Bodrumspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Be%C5%9Fikta%C5%9F%20%20Bodrumspor",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0300"
+    },
+    {
+      "title": "Kayserispor  Samsunspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kayserispor%20%20Samsunspor",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0300"
+    },
+    {
+      "title": "Sporting Lizbon  Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sporting%20Lizbon%20%20Benfica",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0300"
+    },
+    {
+      "title": "Kızılcık Şerbeti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#K%C4%B1z%C4%B1lc%C4%B1k%20%C5%9Eerbeti",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Hatayspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hatayspor",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Torino - Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Torino%20-%20Juventus",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "1 Milyon Mehmet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#1%20Milyon%20Mehmet",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Haldun Dormen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Haldun%20Dormen",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0300"
+    },
+    {
+      "title": "Naci Görür",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Naci%20G%C3%B6r%C3%BCr",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0300"
+    },
+    {
+      "title": "Ahmet Çalık",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ahmet%20%C3%87al%C4%B1k",
+      "pubdate": "Sat, 11 Jan 2025 04:00:00 +0300"
+    },
+    {
+      "title": "Mustafa Üstündağ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mustafa%20%C3%9Cst%C3%BCnda%C4%9F",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0300"
+    },
+    {
+      "title": "Iğdır FK  Karagümrük",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#I%C4%9Fd%C4%B1r%20FK%20%20Karag%C3%BCmr%C3%BCk",
+      "pubdate": "Sat, 11 Jan 2025 14:00:00 +0300"
+    },
+    {
+      "title": "Sakaryaspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sakaryaspor",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "Fatih Terim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fatih%20Terim",
+      "pubdate": "Sat, 11 Jan 2025 03:00:00 +0300"
+    },
+    {
+      "title": "Bayern Münih",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 +0300"
+    },
+    {
+      "title": "Seda Sarıbaş",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Seda%20Sar%C4%B1ba%C5%9F",
+      "pubdate": "Sat, 11 Jan 2025 02:00:00 +0300"
+    },
+    {
+      "title": "Ayşe Barım olayı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ay%C5%9Fe%20Bar%C4%B1m%20olay%C4%B1",
+      "pubdate": "Sat, 11 Jan 2025 02:00:00 +0300"
+    }
   ]
 }

@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:58",
+  "lastUpdate": "12-01-2025 , 05:52:08",
   "data": [
-    [
-      "Man Utd",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20Utd"
-    ],
-    [
-      "Scotland vs Italy",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Scotland%20vs%20Italy"
-    ],
-    [
-      "Pete St John",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Pete%20St%20John"
-    ],
-    [
-      "Marcus Smith",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Marcus%20Smith"
-    ],
-    [
-      "Brentford vs Burnley",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brentford%20vs%20Burnley"
-    ],
-    [
-      "Bulls vs Munster",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bulls%20vs%20Munster"
-    ],
-    [
-      "Chelsea Manning",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea%20Manning"
-    ],
-    [
-      "Kerry gaa",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kerry%20gaa"
-    ],
-    [
-      "Daniel Ricciardo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Daniel%20Ricciardo"
-    ],
-    [
-      "Wonder",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wonder"
-    ],
-    [
-      "Conlan v Wood",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Conlan%20v%20Wood"
-    ],
-    [
-      "Mayo vs Kerry",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mayo%20vs%20Kerry"
-    ],
-    [
-      "Sligo Rovers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sligo%20Rovers"
-    ],
-    [
-      "Knives Out",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Knives%20Out"
-    ],
-    [
-      "Dan Biggar",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dan%20Biggar"
-    ],
-    [
-      "Ireland v England",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20v%20England"
-    ],
-    [
-      "Wales v France",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wales%20v%20France"
-    ],
-    [
-      "6 Nations fixtures",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#6%20Nations%20fixtures"
-    ],
-    [
-      "Dolly Parton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dolly%20Parton"
-    ],
-    [
-      "Mary McAleese",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mary%20McAleese"
-    ]
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#UFC",
+      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0000"
+    },
+    {
+      "title": "Ivor Caplin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ivor%20Caplin",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Texans vs Chargers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Texans%20vs%20Chargers",
+      "pubdate": "Sun, 12 Jan 2025 02:00:00 +0000"
+    },
+    {
+      "title": "Liverpool vs Accrington Stanley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20vs%20Accrington%20Stanley",
+      "pubdate": "Sat, 11 Jan 2025 09:00:00 +0000"
+    },
+    {
+      "title": "Man City vs Salford City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20City%20vs%20Salford%20City",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0000"
+    },
+    {
+      "title": "Cuala GAA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cuala%20GAA",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0000"
+    },
+    {
+      "title": "Chelsea vs Morecambe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea%20vs%20Morecambe",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Errigal Ciaran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Errigal%20Ciaran",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0000"
+    },
+    {
+      "title": "Ireland Weather warnings cold snap",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20Weather%20warnings%20cold%20snap",
+      "pubdate": "Sat, 11 Jan 2025 08:00:00 +0000"
+    },
+    {
+      "title": "Macy Gray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Macy%20Gray",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 +0000"
+    },
+    {
+      "title": "The Hurricane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Hurricane",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0000"
+    },
+    {
+      "title": "Leeds United vs Harrogate Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leeds%20United%20vs%20Harrogate%20Town",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0000"
+    },
+    {
+      "title": "Claudia Winkleman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Claudia%20Winkleman",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Ulster Rugby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ulster%20Rugby",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 +0000"
+    },
+    {
+      "title": "Hells Angels Dublin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hells%20Angels%20Dublin",
+      "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0000"
+    },
+    {
+      "title": "Kyle Walker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kyle%20Walker",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0000"
+    },
+    {
+      "title": "Dean Windass",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dean%20Windass",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Babygirl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Babygirl",
+      "pubdate": "Sat, 11 Jan 2025 01:00:00 +0000"
+    },
+    {
+      "title": "Tadhg Beirne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tadhg%20Beirne",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0000"
+    }
   ]
 }

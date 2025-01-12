@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "12-01-2025 , 05:52:11",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United"
-    ],
-    [
-      "CFR Cluj  Voluntari",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Voluntari"
-    ],
-    [
-      "Craiova FC arges",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Craiova%20FC%20arges"
-    ],
-    [
-      "Ulei",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ulei"
-    ],
-    [
-      "Sampdoria - Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sampdoria%20-%20Juventus"
-    ],
-    [
-      "Brighton,  Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brighton,%20%20Liverpool"
-    ],
-    [
-      "Chindia Târgoviște  U Craiova 1948",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chindia%20T%C3%A2rgovi%C8%99te%20%20U%20Craiova%201948"
-    ],
-    [
-      "Romania Georgia Rugby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Georgia%20Rugby"
-    ],
-    [
-      "Nikolaev",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nikolaev"
-    ],
-    [
-      "Hoffenheim - Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hoffenheim%20-%20Bayern"
-    ],
-    [
-      "Melitopol",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Melitopol"
-    ],
-    [
-      "FC Arges",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Arges"
-    ],
-    [
-      "Emma raducanu",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Emma%20raducanu"
-    ],
-    [
-      "Horoscop 12 martie 2022",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2012%20martie%202022"
-    ],
-    [
-      "Andrey Melnichenko",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrey%20Melnichenko"
-    ],
-    [
-      "WE ARE ONE",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#WE%20ARE%20ONE"
-    ],
-    [
-      "Halep",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep"
-    ],
-    [
-      "Douglas Emhoff",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Douglas%20Emhoff"
-    ],
-    [
-      "UTA Arad - Academica Clinceni",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Academica%20Clinceni"
-    ],
-    [
-      "Zagreb",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zagreb"
-    ]
+    {
+      "title": "Strasbourg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Strasbourg",
+      "pubdate": "Sun, 12 Jan 2025 04:00:00 +0200"
+    },
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
+      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0200"
+    },
+    {
+      "title": "Man City  Salford City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20%20Salford%20City",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Mönchengladbach - Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#M%C3%B6nchengladbach%20-%20Bayern",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
+      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FA%20Cup",
+      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Thierry Breton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Thierry%20Breton",
+      "pubdate": "Sat, 11 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Rapid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
+      "pubdate": "Sat, 11 Jan 2025 01:00:00 +0200"
+    },
+    {
+      "title": "Ianis Stoica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Stoica",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0200"
+    },
+    {
+      "title": "Al-Gharafa  Al Khor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Gharafa%20%20Al%20Khor",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Mark Zuckerberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mark%20Zuckerberg",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "FCSB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB",
+      "pubdate": "Fri, 10 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Dortmund,  Bayer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dortmund,%20%20Bayer",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0200"
+    },
+    {
+      "title": "CCR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CCR",
+      "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Visa Waiver",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Visa%20Waiver",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0200"
+    },
+    {
+      "title": "Stormy Daniels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stormy%20Daniels",
+      "pubdate": "Fri, 10 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "Al Hilal United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Hilal%20United",
+      "pubdate": "Fri, 10 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Radu Budeanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radu%20Budeanu",
+      "pubdate": "Fri, 10 Jan 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Bulgaria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bulgaria",
+      "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Renault 5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Renault%205",
+      "pubdate": "Fri, 10 Jan 2025 20:00:00 +0200"
+    }
   ]
 }
