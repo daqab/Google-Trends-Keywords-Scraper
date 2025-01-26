@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "26-01-2025 , 15:59:28",
   "data": [
-    [
-      "Hoffenheim – Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hoffenheim%20%E2%80%93%20Bayern"
-    ],
-    [
-      "Brighton – Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Brighton%20%E2%80%93%20Liverpool"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Manchester%20United"
-    ],
-    [
-      "Warta – Górnik Zabrze",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Warta%20%E2%80%93%20G%C3%B3rnik%20Zabrze"
-    ],
-    [
-      "Sampdoria – Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sampdoria%20%E2%80%93%20Juventus"
-    ],
-    [
-      "Białoruś",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bia%C5%82oru%C5%9B"
-    ],
-    [
-      "Odra Opole – Arka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Odra%20Opole%20%E2%80%93%20Arka"
-    ],
-    [
-      "Baltic Pipe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Baltic%20Pipe"
-    ],
-    [
-      "Man Utd",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20Utd"
-    ],
-    [
-      "Bialorus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bialorus"
-    ],
-    [
-      "Cracovia – Pogoń",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cracovia%20%E2%80%93%20Pogo%C5%84"
-    ],
-    [
-      "ŁKS Łódź – Stomil",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81KS%20%C5%81%C3%B3d%C5%BA%20%E2%80%93%20Stomil"
-    ],
-    [
-      "FEN",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FEN"
-    ],
-    [
-      "Pink Floyd",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pink%20Floyd"
-    ],
-    [
-      "Bruce Willis",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bruce%20Willis"
-    ],
-    [
-      "Cichopek",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cichopek"
-    ],
-    [
-      "Górnik Łęczna – Legia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C3%B3rnik%20%C5%81%C4%99czna%20%E2%80%93%20Legia"
-    ],
-    [
-      "Duda",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda"
-    ],
-    [
-      "Łuck",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81uck"
-    ],
-    [
-      "Joaquin Phoenix",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joaquin%20Phoenix"
-    ]
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zverev",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Owsiak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Owsiak",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Jerzy Owsiak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerzy%20Owsiak",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Siedlce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siedlce",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "AfD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#AfD",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Licytacje WOŚP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Licytacje%20WO%C5%9AP",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Arnold Schwarzenegger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arnold%20Schwarzenegger",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Magda Mołek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magda%20Mo%C5%82ek",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Grażyna Szapołowska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gra%C5%BCyna%20Szapo%C5%82owska",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Wosp aukcje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wosp%20aukcje",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Valladolid – Real Madryt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Valladolid%20%E2%80%93%20Real%20Madryt",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "WOŚP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#WO%C5%9AP",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Marcin Wicha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Wicha",
+      "pubdate": "Sat, 25 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Man City – Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20City%20%E2%80%93%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Siewiera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siewiera",
+      "pubdate": "Sat, 25 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Napoli – Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Napoli%20%E2%80%93%20Juventus",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Jan Hernik Nie żyje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20Hernik%20Nie%20%C5%BCyje",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Furia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Furia",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Skoki dzisiaj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skoki%20dzisiaj",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0100"
+    }
   ]
 }

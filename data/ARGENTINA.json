@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:55",
+  "lastUpdate": "26-01-2025 , 15:59:23",
   "data": [
-    [
-      "Gerardo rozin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gerardo%20rozin"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United"
-    ],
-    [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool"
-    ],
-    [
-      "Sampdoria  Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sampdoria%20%20Juventus"
-    ],
-    [
-      "De que murio rosin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#De%20que%20murio%20rosin"
-    ],
-    [
-      "SSD",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#SSD"
-    ],
-    [
-      "Jennifer Garner",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jennifer%20Garner"
-    ],
-    [
-      "River Plate vs Gimnasia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River%20Plate%20vs%20Gimnasia"
-    ],
-    [
-      "Hoffenheim  Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hoffenheim%20%20Bayern"
-    ],
-    [
-      "Jorge Guinzburg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jorge%20Guinzburg"
-    ],
-    [
-      "Erase una vez pero ya no",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Erase%20una%20vez%20pero%20ya%20no"
-    ],
-    [
-      "Belgrano",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano"
-    ],
-    [
-      "Atlético Madrid  Cádiz",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20%20C%C3%A1diz"
-    ],
-    [
-      "Escudo Nacional Argentino",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Escudo%20Nacional%20Argentino"
-    ],
-    [
-      "Proyecto Adam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Proyecto%20Adam"
-    ],
-    [
-      "Platense",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Platense"
-    ],
-    [
-      "Christian Martin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Christian%20Martin"
-    ],
-    [
-      "Velez",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez"
-    ],
-    [
-      "Gabriel Boric",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gabriel%20Boric"
-    ],
-    [
-      "Indian Wells",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Indian%20Wells"
-    ]
+    {
+      "title": "Alexander Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alexander%20Zverev",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 -0300"
+    },
+    {
+      "title": "Boca hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20hoy",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 -0300"
+    },
+    {
+      "title": "Milan - Parma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milan%20-%20Parma",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 -0300"
+    },
+    {
+      "title": "Tottenham  Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham%20%20Leicester%20City",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 -0300"
+    },
+    {
+      "title": "Warriors  Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Warriors%20%20Lakers",
+      "pubdate": "Sun, 26 Jan 2025 03:00:00 -0300"
+    },
+    {
+      "title": "Graciela Alfano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Graciela%20Alfano",
+      "pubdate": "Sun, 26 Jan 2025 08:00:00 -0300"
+    },
+    {
+      "title": "Platense  River Plate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Platense%20%20River%20Plate",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 -0300"
+    },
+    {
+      "title": "San Lorenzo  Talleres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo%20%20Talleres",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Manchester City - Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City%20-%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 -0300"
+    },
+    {
+      "title": "Estudiantes  Unión",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20%20Uni%C3%B3n",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 -0300"
+    },
+    {
+      "title": "Valladolid - Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Valladolid%20-%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Atlético Madrid  Villarreal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atl%C3%A9tico%20Madrid%20%20Villarreal",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 -0300"
+    },
+    {
+      "title": "Instituto  Gimnasia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Instituto%20%20Gimnasia",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Liverpool  Ipswich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool%20%20Ipswich",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 -0300"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 -0300"
+    },
+    {
+      "title": "Napoli  Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli%20%20Juventus",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 -0300"
+    },
+    {
+      "title": "Cosquin 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cosquin%202025",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 -0300"
+    },
+    {
+      "title": "El mejor infarto de mi vida",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20mejor%20infarto%20de%20mi%20vida",
+      "pubdate": "Sat, 25 Jan 2025 00:00:00 -0300"
+    },
+    {
+      "title": "Wolves - Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Wolves%20-%20Arsenal",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 -0300"
+    },
+    {
+      "title": "Como  Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Como%20%20Atalanta",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 -0300"
+    }
   ]
 }

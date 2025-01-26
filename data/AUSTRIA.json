@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:56",
+  "lastUpdate": "26-01-2025 , 15:59:23",
   "data": [
-    [
-      "Hoffenheim gegen Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hoffenheim%20gegen%20Bayern"
-    ],
-    [
-      "Lotto",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto"
-    ],
-    [
-      "Janin Ullmann",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Janin%20Ullmann"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United"
-    ],
-    [
-      "Silvia Laubenbacher",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvia%20Laubenbacher"
-    ],
-    [
-      "Robbie Williams",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robbie%20Williams"
-    ],
-    [
-      "Kranjska Gora",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kranjska%20Gora"
-    ],
-    [
-      "Pete Davidson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pete%20Davidson"
-    ],
-    [
-      "Katharina Liensberger",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Katharina%20Liensberger"
-    ],
-    [
-      "Ingrid Felipe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ingrid%20Felipe"
-    ],
-    [
-      "Rußland Ukraine Krieg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ru%C3%9Fland%20Ukraine%20Krieg"
-    ],
-    [
-      "Lawinenunglück Ötscher",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lawinenungl%C3%BCck%20%C3%96tscher"
-    ],
-    [
-      "Mönchengladbach gegen Hertha",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%B6nchengladbach%20gegen%20Hertha"
-    ],
-    [
-      "VSV",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VSV"
-    ],
-    [
-      "Sara Marita Kramer",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sara%20Marita%20Kramer"
-    ],
-    [
-      "Petra Vlhova",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Petra%20Vlhova"
-    ],
-    [
-      "Admira gegen Ried",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Admira%20gegen%20Ried"
-    ],
-    [
-      "Schlag den Star",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schlag%20den%20Star"
-    ],
-    [
-      "Lena",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lena"
-    ],
-    [
-      "Haaland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Haaland"
-    ]
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "BVB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BVB",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Fally Mayulu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fally%20Mayulu",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Hoffenheim – Eintracht Frankfurt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hoffenheim%20%E2%80%93%20Eintracht%20Frankfurt",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Lara Gut-Behrami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lara%20Gut-Behrami",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "NÖ wahl 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#N%C3%96%20wahl%202025",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "DJ Ötzi Tochter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DJ%20%C3%96tzi%20Tochter",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Gemeinderatswahl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gemeinderatswahl",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Zverev Freundin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev%20Freundin",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Jacqueline Seifriedsberger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jacqueline%20Seifriedsberger",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Traunsee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Traunsee",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Belarus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Belarus",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Rainhard Fendrich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rainhard%20Fendrich",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Gemeinderatswahlen NÖ 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gemeinderatswahlen%20N%C3%96%202025",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Slalom Kitzbühel 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Slalom%20Kitzb%C3%BChel%202025",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Nina Ortlieb Sturz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nina%20Ortlieb%20Sturz",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Valladolid – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Valladolid%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Miriam Höller",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Miriam%20H%C3%B6ller",
+      "pubdate": "Sat, 25 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Kitzbühel Abfahrt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kitzb%C3%BChel%20Abfahrt",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0100"
+    }
   ]
 }

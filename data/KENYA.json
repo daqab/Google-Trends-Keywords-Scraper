@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:59",
+  "lastUpdate": "26-01-2025 , 15:59:27",
   "data": [
-    [
-      "Kalonzo Musyoka",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kalonzo%20Musyoka"
-    ],
-    [
-      "Getafe vs Valencia",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Getafe%20vs%20Valencia"
-    ],
-    [
-      "Hoffenheim vs Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hoffenheim%20vs%20Bayern"
-    ],
-    [
-      "Sampdoria vs Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sampdoria%20vs%20Juventus"
-    ],
-    [
-      "Fulham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham"
-    ],
-    [
-      "Millwall vs Middlesbrough",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Millwall%20vs%20Middlesbrough"
-    ],
-    [
-      "Angers vs Reims",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Angers%20vs%20Reims"
-    ],
-    [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Traci%20Braxton"
-    ],
-    [
-      "Lakers vs Wizards",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakers%20vs%20Wizards"
-    ],
-    [
-      "Blackpool vs Swansea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blackpool%20vs%20Swansea"
-    ],
-    [
-      "Everton vs Wolves",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Wolves"
-    ],
-    [
-      "Milan vs Empoli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20Empoli"
-    ],
-    [
-      "Brentford FC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford%20FC"
-    ],
-    [
-      "Chelsea vs Newcastle",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Newcastle"
-    ],
-    [
-      "Freiburg vs Wolfsburg",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Freiburg%20vs%20Wolfsburg"
-    ],
-    [
-      "Sunderland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sunderland"
-    ],
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Epl table",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Epl%20table"
-    ],
-    [
-      "EPL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPL"
-    ]
+    {
+      "title": "Tottenham vs Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tottenham%20vs%20Leicester%20City",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0300"
+    },
+    {
+      "title": "Milan vs parma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Milan%20vs%20parma",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0300"
+    },
+    {
+      "title": "Chelsea vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Arsenal",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
+      "pubdate": "Sun, 26 Jan 2025 18:00:00 +0300"
+    },
+    {
+      "title": "Martha Karua",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Martha%20Karua",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 +0300"
+    },
+    {
+      "title": "Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bologna",
+      "pubdate": "Sun, 26 Jan 2025 08:00:00 +0300"
+    },
+    {
+      "title": "Barcelona vs Valencia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20vs%20Valencia",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0300"
+    },
+    {
+      "title": "Antony",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Antony",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0300"
+    },
+    {
+      "title": "Wolves vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves%20vs%20Arsenal",
+      "pubdate": "Sat, 25 Jan 2025 11:00:00 +0300"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Liverpool vs Ipswich Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Ipswich%20Town",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Valladolid vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valladolid%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0300"
+    },
+    {
+      "title": "Chelsea FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Crystal Palace vs Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crystal%20Palace%20vs%20Brentford",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Omar Marmoush",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Omar%20Marmoush",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0300"
+    },
+    {
+      "title": "Planetary alignment 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Planetary%20alignment%202025",
+      "pubdate": "Sat, 25 Jan 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Kenya Power",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20Power",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0300"
+    },
+    {
+      "title": "Kyle Walker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kyle%20Walker",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0300"
+    },
+    {
+      "title": "Museum of Illusions Nairobi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Museum%20of%20Illusions%20Nairobi",
+      "pubdate": "Sat, 25 Jan 2025 03:00:00 +0300"
+    },
+    {
+      "title": "England vs India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England%20vs%20India",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0300"
+    }
   ]
 }

@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "26-01-2025 , 15:59:29",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United"
-    ],
-    [
-      "CFR Cluj  Voluntari",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Voluntari"
-    ],
-    [
-      "Craiova FC arges",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Craiova%20FC%20arges"
-    ],
-    [
-      "Ulei",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ulei"
-    ],
-    [
-      "Sampdoria - Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sampdoria%20-%20Juventus"
-    ],
-    [
-      "Brighton,  Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brighton,%20%20Liverpool"
-    ],
-    [
-      "Chindia Târgoviște  U Craiova 1948",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chindia%20T%C3%A2rgovi%C8%99te%20%20U%20Craiova%201948"
-    ],
-    [
-      "Romania Georgia Rugby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Georgia%20Rugby"
-    ],
-    [
-      "Nikolaev",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nikolaev"
-    ],
-    [
-      "Hoffenheim - Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hoffenheim%20-%20Bayern"
-    ],
-    [
-      "Melitopol",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Melitopol"
-    ],
-    [
-      "FC Arges",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Arges"
-    ],
-    [
-      "Emma raducanu",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Emma%20raducanu"
-    ],
-    [
-      "Horoscop 12 martie 2022",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2012%20martie%202022"
-    ],
-    [
-      "Andrey Melnichenko",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrey%20Melnichenko"
-    ],
-    [
-      "WE ARE ONE",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#WE%20ARE%20ONE"
-    ],
-    [
-      "Halep",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep"
-    ],
-    [
-      "Douglas Emhoff",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Douglas%20Emhoff"
-    ],
-    [
-      "UTA Arad - Academica Clinceni",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20-%20Academica%20Clinceni"
-    ],
-    [
-      "Zagreb",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zagreb"
-    ]
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zverev",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Milan - Parma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan%20-%20Parma",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0200"
+    },
+    {
+      "title": "Dundee Utd  Rangers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dundee%20Utd%20%20Rangers",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "Tottenham - Leicester",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham%20-%20Leicester",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Sepsi  Oțelul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sepsi%20%20O%C8%9Belul",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Khusanov",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Khusanov",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0200"
+    },
+    {
+      "title": "Ianis Stoica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Stoica",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Ceausescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ceausescu",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Ionuț Radu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ionu%C8%9B%20Radu",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "Nicolae Ceaușescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicolae%20Ceau%C8%99escu",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "Universitatea Craiova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Universitatea%20Craiova",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Rapid Bucureşti  Universitatea Craiova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20Bucure%C5%9Fti%20%20Universitatea%20Craiova",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Valladolid  Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Valladolid%20%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0200"
+    },
+    {
+      "title": "Coiful de la Cotofenesti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coiful%20de%20la%20Cotofenesti",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Man City - Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20City%20-%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "Poli Iași  Hermannstadt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poli%20Ia%C8%99i%20%20Hermannstadt",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Liverpool  Ipswich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool%20%20Ipswich",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Napoli,  Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli,%20%20Juventus",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0200"
+    }
   ]
 }

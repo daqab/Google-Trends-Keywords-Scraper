@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:03",
+  "lastUpdate": "26-01-2025 , 15:59:31",
   "data": [
-    [
-      "Sassuolo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sassuolo"
-    ],
-    [
-      "MU vs Tot",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs%20Tot"
-    ],
-    [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool"
-    ],
-    [
-      "Đường lưỡi bò",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%C6%B0%E1%BB%9Dng%20l%C6%B0%E1%BB%A1i%20b%C3%B2"
-    ],
-    [
-      "Uncharted",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Uncharted"
-    ],
-    [
-      "BMW",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#BMW"
-    ],
-    [
-      "Bóng đá Man City",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20Man%20City"
-    ],
-    [
-      "On Football",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#On%20Football"
-    ],
-    [
-      "Diễn viên Tangmo Nida",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Di%E1%BB%85n%20vi%C3%AAn%20Tangmo%20Nida"
-    ],
-    [
-      "Anh có phải đàn ông không tập 16",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Anh%20c%C3%B3%20ph%E1%BA%A3i%20%C4%91%C3%A0n%20%C3%B4ng%20kh%C3%B4ng%20t%E1%BA%ADp%2016"
-    ],
-    [
-      "Trivago",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Trivago"
-    ],
-    [
-      "Bang xep hang",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bang%20xep%20hang"
-    ],
-    [
-      "Deltacron",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Deltacron"
-    ],
-    [
-      "Vũ Ngọc Phượng",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C5%A9%20Ng%E1%BB%8Dc%20Ph%C6%B0%E1%BB%A3ng"
-    ],
-    [
-      "Hà Nội đấu với TP.HCM",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20N%E1%BB%99i%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20TP.HCM"
-    ],
-    [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea"
-    ],
-    [
-      "Giá dầu hôm nay",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20d%E1%BA%A7u%20h%C3%B4m%20nay"
-    ],
-    [
-      "HAGL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#HAGL"
-    ],
-    [
-      "Aston Villa",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa"
-    ],
-    [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Grimes"
-    ]
+    {
+      "title": "Valladolid đấu với Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Valladolid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
+      "pubdate": "Sun, 26 Jan 2025 03:00:00 +0700"
+    },
+    {
+      "title": "Mc vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mc%20vs",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0700"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0700"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0700"
+    },
+    {
+      "title": "Thời tiết hôm nay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%9Di%20ti%E1%BA%BFt%20h%C3%B4m%20nay",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0700"
+    },
+    {
+      "title": "XSMN hôm xổ số miền Nam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#XSMN%20h%C3%B4m%20x%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0700"
+    },
+    {
+      "title": "Real vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20vs",
+      "pubdate": "Sun, 26 Jan 2025 04:00:00 +0700"
+    },
+    {
+      "title": "Vũ Hồng Văn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C5%A9%20H%E1%BB%93ng%20V%C4%83n",
+      "pubdate": "Sun, 26 Jan 2025 06:00:00 +0700"
+    },
+    {
+      "title": "Arsenal vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20vs",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0700"
+    },
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sinner",
+      "pubdate": "Sun, 26 Jan 2025 19:00:00 +0700"
+    },
+    {
+      "title": "Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
+      "pubdate": "Sun, 26 Jan 2025 04:00:00 +0700"
+    },
+    {
+      "title": "Chị đẹp đạp gió 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%E1%BB%8B%20%C4%91%E1%BA%B9p%20%C4%91%E1%BA%A1p%20gi%C3%B3%202024",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0700"
+    },
+    {
+      "title": "Nguyễn Văn Nên",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20V%C4%83n%20N%C3%AAn",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0700"
+    },
+    {
+      "title": "Wolves đấu với Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Wolves%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Arsenal",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0700"
+    },
+    {
+      "title": "Liverpool đấu với Ipswich Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Ipswich%20Town",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0700"
+    },
+    {
+      "title": "Nguyễn Thanh Nghị",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20Thanh%20Ngh%E1%BB%8B",
+      "pubdate": "Sat, 25 Jan 2025 11:00:00 +0700"
+    },
+    {
+      "title": "Nghị định 168 xử phạt giao thông",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh%20168%20x%E1%BB%AD%20ph%E1%BA%A1t%20giao%20th%C3%B4ng",
+      "pubdate": "Sat, 25 Jan 2025 08:00:00 +0700"
+    },
+    {
+      "title": "Antony",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Antony",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0700"
+    },
+    {
+      "title": "Nguyễn Quốc Triệu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20Qu%E1%BB%91c%20Tri%E1%BB%87u",
+      "pubdate": "Sat, 25 Jan 2025 08:00:00 +0700"
+    },
+    {
+      "title": "Cách gói bánh chưng",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%A1ch%20g%C3%B3i%20b%C3%A1nh%20ch%C6%B0ng",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0700"
+    }
   ]
 }

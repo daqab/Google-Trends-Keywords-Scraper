@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:56",
+  "lastUpdate": "26-01-2025 , 15:59:24",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Manchester%20United"
-    ],
-    [
-      "Canucks",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks"
-    ],
-    [
-      "Daylight savings",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daylight%20savings"
-    ],
-    [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers"
-    ],
-    [
-      "Jennifer Garner",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Garner"
-    ],
-    [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Traci%20Braxton"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Big E",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Big%20E"
-    ],
-    [
-      "Yusei Kikuchi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yusei%20Kikuchi"
-    ],
-    [
-      "Jesperi Kotkaniemi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jesperi%20Kotkaniemi"
-    ],
-    [
-      "Jack Kerouac",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jack%20Kerouac"
-    ],
-    [
-      "Daniel Ricciardo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daniel%20Ricciardo"
-    ],
-    [
-      "Gregg Popovich",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gregg%20Popovich"
-    ],
-    [
-      "Lewis Hamilton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lewis%20Hamilton"
-    ],
-    [
-      "Hailey Bieber",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hailey%20Bieber"
-    ],
-    [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20vs%20Pakistan"
-    ],
-    [
-      "Jamie Lee Curtis",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jamie%20Lee%20Curtis"
-    ],
-    [
-      "Brooke Shields",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooke%20Shields"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Adam%20Project"
-    ],
-    [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Turning%20Red"
-    ]
+    {
+      "title": "Timothee Chalamet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Timothee%20Chalamet",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 -0500"
+    },
+    {
+      "title": "Elias Pettersson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elias%20Pettersson",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 -0500"
+    },
+    {
+      "title": "Quinn Hughes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Quinn%20Hughes",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 -0500"
+    },
+    {
+      "title": "AfD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AfD",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 -0500"
+    },
+    {
+      "title": "Washington Capitals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Washington%20Capitals",
+      "pubdate": "Sun, 26 Jan 2025 03:00:00 -0500"
+    },
+    {
+      "title": "Republic Day India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Republic%20Day%20India",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 -0500"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 -0500"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 -0500"
+    },
+    {
+      "title": "Man City vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City%20vs%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 -0500"
+    },
+    {
+      "title": "Maple Leafs vs Senators",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Senators",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 -0500"
+    },
+    {
+      "title": "WWE Saturday Night Main Event",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WWE%20Saturday%20Night%20Main%20Event",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 -0500"
+    },
+    {
+      "title": "Winnipeg Jets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+      "pubdate": "Sat, 25 Jan 2025 09:00:00 -0500"
+    },
+    {
+      "title": "Devils – Canadiens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Devils%20%E2%80%93%20Canadiens",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 -0500"
+    },
+    {
+      "title": "Infant self-feeding devices",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Infant%20self-feeding%20devices",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 -0500"
+    },
+    {
+      "title": "Bills vs Chiefs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bills%20vs%20Chiefs",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Usman Nurmagomedov",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Usman%20Nurmagomedov",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 -0500"
+    },
+    {
+      "title": "Kristi Noem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kristi%20Noem",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 -0500"
+    },
+    {
+      "title": "Keanu Reeves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Keanu%20Reeves",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 -0500"
+    },
+    {
+      "title": "BKFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BKFC",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 -0500"
+    }
   ]
 }

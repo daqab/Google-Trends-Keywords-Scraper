@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:57",
+  "lastUpdate": "26-01-2025 , 15:59:24",
   "data": [
-    [
-      "Babiš",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Babi%C5%A1"
-    ],
-    [
-      "Man United – Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20United%20%E2%80%93%20Tottenham"
-    ],
-    [
-      "Jaroslav Wykrent",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jaroslav%20Wykrent"
-    ],
-    [
-      "Hoffenheim – Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hoffenheim%20%E2%80%93%20Bayern"
-    ],
-    [
-      "MOL",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MOL"
-    ],
-    [
-      "Bělorusko",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C4%9Blorusko"
-    ],
-    [
-      "Brighton – Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brighton%20%E2%80%93%20Liverpool"
-    ],
-    [
-      "Aylin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aylin"
-    ],
-    [
-      "Události",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ud%C3%A1losti"
-    ],
-    [
-      "Vstup ČR do NATO",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vstup%20%C4%8CR%20do%20NATO"
-    ],
-    [
-      "Tu-141 drone",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tu-141%20drone"
-    ],
-    [
-      "Meta",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Meta"
-    ],
-    [
-      "Petr Vojnar",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Vojnar"
-    ],
-    [
-      "Martin Komárek",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Kom%C3%A1rek"
-    ],
-    [
-      "Jiří Bartoška",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Barto%C5%A1ka"
-    ],
-    [
-      "Projekt Adam",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Projekt%20Adam"
-    ],
-    [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Grimes"
-    ],
-    [
-      "Dasha",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dasha"
-    ],
-    [
-      "Rammstein",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rammstein"
-    ],
-    [
-      "Chorvatsko",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chorvatsko"
-    ]
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sinner",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Siniakova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Wyatt Earp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wyatt%20Earp",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Ivan Hlinka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Hlinka",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Jak básníkům chutná život",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jak%20b%C3%A1sn%C3%ADk%C5%AFm%20chutn%C3%A1%20%C5%BEivot",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Colorado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Colorado",
+      "pubdate": "Sat, 25 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Valladolid – Real",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Valladolid%20%E2%80%93%20Real",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Bočanová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bo%C4%8Danov%C3%A1",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Tereza Nová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Nov%C3%A1",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Freiburg – bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Freiburg%20%E2%80%93%20bayern",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Ples jako Brno",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ples%20jako%20Brno",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Jiří Lábus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20L%C3%A1bus",
+      "pubdate": "Sat, 25 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Centralia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Centralia",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Protesty Slovensko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Protesty%20Slovensko",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Sáblíková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%C3%A1bl%C3%ADkov%C3%A1",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Slovensko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovensko",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Bolek Polívka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bolek%20Pol%C3%ADvka",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Viktorín Šulc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktor%C3%ADn%20%C5%A0ulc",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
+    }
   ]
 }

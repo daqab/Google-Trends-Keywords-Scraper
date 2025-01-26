@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:03",
+  "lastUpdate": "26-01-2025 , 15:59:31",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United"
-    ],
-    [
-      "Hatayspor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hatayspor"
-    ],
-    [
-      "Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool"
-    ],
-    [
-      "Manchester United - Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United%20-%20Tottenham"
-    ],
-    [
-      "Esra Ersoy",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Esra%20Ersoy"
-    ],
-    [
-      "Kasımpaşa  Rizespor",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kas%C4%B1mpa%C5%9Fa%20%20Rizespor"
-    ],
-    [
-      "Niyazi Koyuncu",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Niyazi%20Koyuncu"
-    ],
-    [
-      "Altay",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Altay"
-    ],
-    [
-      "Tansu Çiller",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tansu%20%C3%87iller"
-    ],
-    [
-      "Tuğçe Kandemir",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tu%C4%9F%C3%A7e%20Kandemir"
-    ],
-    [
-      "Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus"
-    ],
-    [
-      "PAZARTESİ OKULLAR TATİL Mİ",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PAZARTES%C4%B0%20OKULLAR%20TAT%C4%B0L%20M%C4%B0"
-    ],
-    [
-      "Hoffenheim  Bayern Münih",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hoffenheim%20%20Bayern%20M%C3%BCnih"
-    ],
-    [
-      "Alanyaspor  Fenerbahçe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20%20Fenerbah%C3%A7e"
-    ],
-    [
-      "Devlet Bahçeli",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli"
-    ],
-    [
-      "Erzurum deprem",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem"
-    ],
-    [
-      "Yıldız Tilbe",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Y%C4%B1ld%C4%B1z%20Tilbe"
-    ],
-    [
-      "Kıyamet filmi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#K%C4%B1yamet%20filmi"
-    ],
-    [
-      "Özer Hurmacı",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zer%20Hurmac%C4%B1"
-    ],
-    [
-      "Belarus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Belarus"
-    ]
+    {
+      "title": "Antalyaspor - Beşiktaş",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor%20-%20Be%C5%9Fikta%C5%9F",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Rizespor  Adana Demirspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rizespor%20%20Adana%20Demirspor",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0300"
+    },
+    {
+      "title": "Ankaragücü  Erzurumspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ankarag%C3%BCc%C3%BC%20%20Erzurumspor",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0300"
+    },
+    {
+      "title": "Zeynep Çelik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zeynep%20%C3%87elik",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0300"
+    },
+    {
+      "title": "BAŞAKŞEHİR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BA%C5%9EAK%C5%9EEH%C4%B0R",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0300"
+    },
+    {
+      "title": "Eyüpspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
+      "pubdate": "Sun, 26 Jan 2025 18:00:00 +0300"
+    },
+    {
+      "title": "AÖF sınav sonuçları",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#A%C3%96F%20s%C4%B1nav%20sonu%C3%A7lar%C4%B1",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Bandırmaspor Keçiörengücü",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Band%C4%B1rmaspor%20Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0300"
+    },
+    {
+      "title": "Muslera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Muslera",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Elvin Levinler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Elvin%20Levinler",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Can Keleş",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Can%20Kele%C5%9F",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +0300"
+    },
+    {
+      "title": "Teleskop",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Teleskop",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Fenerbahçe-Göztepe maçı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e-G%C3%B6ztepe%20ma%C3%A7%C4%B1",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "Valladolid - Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Valladolid%20-%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0300"
+    },
+    {
+      "title": "Sivasspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivasspor",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0300"
+    },
+    {
+      "title": "Alanyaspor - Başakşehir",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20-%20Ba%C5%9Fak%C5%9Fehir",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Casa Pia - Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Casa%20Pia%20-%20Benfica",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0300"
+    },
+    {
+      "title": "İstanbulspor, Amed",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbulspor,%20Amed",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0300"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0300"
+    }
   ]
 }

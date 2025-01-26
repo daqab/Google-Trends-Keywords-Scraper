@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:55",
+  "lastUpdate": "26-01-2025 , 15:59:22",
   "data": [
-    [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Traci%20Braxton"
-    ],
-    [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United"
-    ],
-    [
-      "Tornado Watch",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado%20Watch"
-    ],
-    [
-      "Gregg Popovich",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gregg%20Popovich"
-    ],
-    [
-      "St. Patrick's Day Parade",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#St.%20Patrick's%20Day%20Parade"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Maxx Crosby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maxx%20Crosby"
-    ],
-    [
-      "Kashmir Files",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kashmir%20Files"
-    ],
-    [
-      "Hailey Bieber",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hailey%20Bieber"
-    ],
-    [
-      "Winter storm warning",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20storm%20warning"
-    ],
-    [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Turning%20Red"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Adam%20Project"
-    ],
-    [
-      "Deshaun Watson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deshaun%20Watson"
-    ],
-    [
-      "Daylight savings",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daylight%20savings"
-    ],
-    [
-      "Kentucky basketball",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20basketball"
-    ],
-    [
-      "Illinois basketball",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball"
-    ],
-    [
-      "Willie Nelson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Willie%20Nelson"
-    ],
-    [
-      "Red panda",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Red%20panda"
-    ],
-    [
-      "Upload",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=US#Upload"
-    ]
+    {
+      "title": "Bucks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 -0800"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 08:00:00 -0800"
+    },
+    {
+      "title": "Bills vs Chiefs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Chiefs",
+      "pubdate": "Sat, 25 Jan 2025 08:00:00 -0800"
+    },
+    {
+      "title": "Eagles vs Commanders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles%20vs%20Commanders",
+      "pubdate": "Sat, 25 Jan 2025 10:00:00 -0800"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 -0800"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
+      "pubdate": "Sat, 25 Jan 2025 10:00:00 -0800"
+    },
+    {
+      "title": "Kristi Noem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kristi%20Noem",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 -0800"
+    },
+    {
+      "title": "Tycoon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tycoon",
+      "pubdate": "Sat, 25 Jan 2025 06:00:00 -0800"
+    },
+    {
+      "title": "Saturday Night Main Event",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saturday%20Night%20Main%20Event",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 -0800"
+    },
+    {
+      "title": "Auburn basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20basketball",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 -0800"
+    },
+    {
+      "title": "Timothee Chalamet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Timothee%20Chalamet",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 -0800"
+    },
+    {
+      "title": "Lakers vs Warriors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers%20vs%20Warriors",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 -0800"
+    },
+    {
+      "title": "United Airlines flight emergency landing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#United%20Airlines%20flight%20emergency%20landing",
+      "pubdate": "Sat, 25 Jan 2025 00:00:00 -0800"
+    },
+    {
+      "title": "Gulf of Mexico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gulf%20of%20Mexico",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 -0800"
+    },
+    {
+      "title": "Knicks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 -0800"
+    },
+    {
+      "title": "Kobe Bryant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kobe%20Bryant",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 -0800"
+    },
+    {
+      "title": "BKFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#BKFC",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 -0800"
+    },
+    {
+      "title": "Kansas basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kansas%20basketball",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 -0800"
+    },
+    {
+      "title": "Spurs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 -0800"
+    },
+    {
+      "title": "Tuskegee Airmen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tuskegee%20Airmen",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 -0800"
+    }
   ]
 }

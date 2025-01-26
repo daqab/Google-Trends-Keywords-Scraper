@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:01",
+  "lastUpdate": "26-01-2025 , 15:59:29",
   "data": [
-    [
-      "Brentford vs Burnley",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brentford%20vs%20Burnley"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "Johor election",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Johor%20election"
-    ],
-    [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers"
-    ],
-    [
-      "Malaysiakini",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Malaysiakini"
-    ],
-    [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australia%20vs%20Pakistan"
-    ],
-    [
-      "Daniel Ricciardo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Daniel%20Ricciardo"
-    ],
-    [
-      "Li Keqiang",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Keqiang"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Adam%20Project"
-    ],
-    [
-      "Chelsea",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea"
-    ],
-    [
-      "Deltacron",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Deltacron"
-    ],
-    [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Turning%20Red"
-    ],
-    [
-      "Europa League",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League"
-    ],
-    [
-      "Grimes",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Grimes"
-    ],
-    [
-      "Kashmir Files",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kashmir%20Files"
-    ],
-    [
-      "Elon Musk",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk"
-    ],
-    [
-      "Maaran",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Maaran"
-    ],
-    [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jussie%20Smollett"
-    ],
-    [
-      "Jennifer Garner",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jennifer%20Garner"
-    ]
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +0800"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zverev",
+      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0800"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0800"
+    },
+    {
+      "title": "Republic Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Republic%20Day",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "Tilak Varma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tilak%20Varma",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0800"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0800"
+    },
+    {
+      "title": "Pete Hegseth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pete%20Hegseth",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 +0800"
+    },
+    {
+      "title": "Helen Wong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Helen%20Wong",
+      "pubdate": "Sat, 25 Jan 2025 10:00:00 +0800"
+    },
+    {
+      "title": "FEMA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FEMA",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "Anwar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Anwar",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0800"
+    },
+    {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
+      "pubdate": "Fri, 24 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "Oscar nominations 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Oscar%20nominations%202025",
+      "pubdate": "Fri, 24 Jan 2025 00:00:00 +0800"
+    },
+    {
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jannik%20Sinner",
+      "pubdate": "Fri, 24 Jan 2025 22:00:00 +0800"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zverev",
+      "pubdate": "Fri, 24 Jan 2025 21:00:00 +0800"
+    },
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sinner",
+      "pubdate": "Fri, 24 Jan 2025 20:00:00 +0800"
+    },
+    {
+      "title": "ONE Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ONE%20Championship",
+      "pubdate": "Fri, 24 Jan 2025 23:00:00 +0800"
+    },
+    {
+      "title": "Samsung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Samsung",
+      "pubdate": "Thu, 23 Jan 2025 03:00:00 +0800"
+    },
+    {
+      "title": "Lynn Ban",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lynn%20Ban",
+      "pubdate": "Thu, 23 Jan 2025 03:00:00 +0800"
+    },
+    {
+      "title": "Madison Keys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Madison%20Keys",
+      "pubdate": "Thu, 23 Jan 2025 22:00:00 +0800"
+    },
+    {
+      "title": "AI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AI",
+      "pubdate": "Thu, 23 Jan 2025 23:00:00 +0800"
+    }
   ]
 }

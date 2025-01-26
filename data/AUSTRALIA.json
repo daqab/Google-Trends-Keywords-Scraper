@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:55",
+  "lastUpdate": "26-01-2025 , 15:59:23",
   "data": [
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "Alec Baldwin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alec%20Baldwin"
-    ],
-    [
-      "Six Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Six%20Nations"
-    ],
-    [
-      "Big E",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Big%20E"
-    ],
-    [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20Pakistan"
-    ],
-    [
-      "Red Cross Flood Appeal",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Red%20Cross%20Flood%20Appeal"
-    ],
-    [
-      "Moomba",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moomba"
-    ],
-    [
-      "Lakers",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers"
-    ],
-    [
-      "Kashmir Files",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kashmir%20Files"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Chelsea Manning",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20Manning"
-    ],
-    [
-      "Roosters vs knights",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Roosters%20vs%20knights"
-    ],
-    [
-      "Zoe Saldaña",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zoe%20Salda%C3%B1a"
-    ],
-    [
-      "Melbourne Storm",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Storm"
-    ],
-    [
-      "Roosters",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Roosters"
-    ],
-    [
-      "Australia Unites",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Unites"
-    ],
-    [
-      "Shawn Levy",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shawn%20Levy"
-    ],
-    [
-      "Vassal state",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vassal%20state"
-    ],
-    [
-      "Tyler Henry",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyler%20Henry"
-    ],
-    [
-      "Eagle FC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eagle%20FC"
-    ]
+    {
+      "title": "Tottenham vs Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Leicester%20City",
+      "pubdate": "Mon, 27 Jan 2025 01:00:00 +1100"
+    },
+    {
+      "title": "Republic Day India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Republic%20Day%20India",
+      "pubdate": "Mon, 27 Jan 2025 00:00:00 +1100"
+    },
+    {
+      "title": "Australia Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Day",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +1100"
+    },
+    {
+      "title": "Australia Day 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Day%202025",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 +1100"
+    },
+    {
+      "title": "Man City vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Chelsea",
+      "pubdate": "Sun, 26 Jan 2025 05:00:00 +1100"
+    },
+    {
+      "title": "Triple J Hottest 100 Chappell Roan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Triple%20J%20Hottest%20100%20Chappell%20Roan",
+      "pubdate": "Sun, 26 Jan 2025 07:00:00 +1100"
+    },
+    {
+      "title": "Zverev allegations",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zverev%20allegations",
+      "pubdate": "Sun, 26 Jan 2025 23:00:00 +1100"
+    },
+    {
+      "title": "DeepSeek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DeepSeek",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +1100"
+    },
+    {
+      "title": "Women's Ashes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20Ashes",
+      "pubdate": "Sun, 26 Jan 2025 08:00:00 +1100"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +1100"
+    },
+    {
+      "title": "Australia Day Awards 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Day%20Awards%202025",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 +1100"
+    },
+    {
+      "title": "Siniakova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Siniakova",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 +1100"
+    },
+    {
+      "title": "Ostapenko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ostapenko",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 +1100"
+    },
+    {
+      "title": "Invasion Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Invasion%20Day",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +1100"
+    },
+    {
+      "title": "Liam Hemsworth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liam%20Hemsworth",
+      "pubdate": "Sun, 26 Jan 2025 22:00:00 +1100"
+    },
+    {
+      "title": "WWE Saturday Night Main Event",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE%20Saturday%20Night%20Main%20Event",
+      "pubdate": "Sun, 26 Jan 2025 19:00:00 +1100"
+    },
+    {
+      "title": "BKFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BKFC",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +1100"
+    },
+    {
+      "title": "Daytona 24 Hours 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daytona%2024%20Hours%202025",
+      "pubdate": "Sun, 26 Jan 2025 22:00:00 +1100"
+    },
+    {
+      "title": "Australia Day Honours List 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Day%20Honours%20List%202025",
+      "pubdate": "Sun, 26 Jan 2025 22:00:00 +1100"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zverev",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +1100"
+    }
   ]
 }

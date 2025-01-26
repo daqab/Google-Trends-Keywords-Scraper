@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:03",
+  "lastUpdate": "26-01-2025 , 15:59:31",
   "data": [
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "Scotland rugby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Scotland%20rugby"
-    ],
-    [
-      "Tom Parker",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tom%20Parker"
-    ],
-    [
-      "ITV",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ITV"
-    ],
-    [
-      "Flights",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Flights"
-    ],
-    [
-      "Brentford vs Burnley",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Brentford%20vs%20Burnley"
-    ],
-    [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Traci%20Braxton"
-    ],
-    [
-      "Marcus Smith",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Marcus%20Smith"
-    ],
-    [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Australia%20vs%20Pakistan"
-    ],
-    [
-      "Haaland",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Haaland"
-    ],
-    [
-      "Alison Steadman",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alison%20Steadman"
-    ],
-    [
-      "Susie Wolff",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Susie%20Wolff"
-    ],
-    [
-      "Big E",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Big%20E"
-    ],
-    [
-      "England",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England"
-    ],
-    [
-      "Daniel Ricciardo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Daniel%20Ricciardo"
-    ],
-    [
-      "Six Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Six%20Nations"
-    ],
-    [
-      "Wales vs France",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wales%20vs%20France"
-    ],
-    [
-      "The Adam Project",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Adam%20Project"
-    ],
-    [
-      "Turning Red",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Turning%20Red"
-    ],
-    [
-      "Jussie Smollett",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jussie%20Smollett"
-    ]
+    {
+      "title": "Tottenham vs Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tottenham%20vs%20Leicester%20City",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0000"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Zverev",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0000"
+    },
+    {
+      "title": "Nick Cave",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nick%20Cave",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0000"
+    },
+    {
+      "title": "Tom Parker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tom%20Parker",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 +0000"
+    },
+    {
+      "title": "AC MILAN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#AC%20MILAN",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0000"
+    },
+    {
+      "title": "Cole Palmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cole%20Palmer",
+      "pubdate": "Sun, 26 Jan 2025 08:00:00 +0000"
+    },
+    {
+      "title": "Spain tourist ban",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spain%20tourist%20ban",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#PSG",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0000"
+    },
+    {
+      "title": "Holly Willoughby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Holly%20Willoughby",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0000"
+    },
+    {
+      "title": "Kirstie Allsopp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kirstie%20Allsopp",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0000"
+    },
+    {
+      "title": "Wynne Evans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wynne%20Evans",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Chelsea vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea%20vs%20Arsenal",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "WHSmith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#WHSmith",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0000"
+    },
+    {
+      "title": "Man City vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City%20vs%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0000"
+    },
+    {
+      "title": "Wind warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wind%20warning",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0000"
+    },
+    {
+      "title": "Liverpool vs Ipswich Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20vs%20Ipswich%20Town",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Wolves vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wolves%20vs%20Arsenal",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 11:00:00 +0000"
+    },
+    {
+      "title": "Michael Sheen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Michael%20Sheen",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0000"
+    }
   ]
 }

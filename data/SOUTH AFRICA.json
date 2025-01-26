@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:02",
+  "lastUpdate": "26-01-2025 , 15:59:30",
   "data": [
-    [
-      "Man United vs Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20Tottenham"
-    ],
-    [
-      "Brighton vs Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Liverpool"
-    ],
-    [
-      "Traci Braxton",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Traci%20Braxton"
-    ],
-    [
-      "Australia vs Pakistan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Pakistan"
-    ],
-    [
-      "Nedbank Cup",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nedbank%20Cup"
-    ],
-    [
-      "Six Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Six%20Nations"
-    ],
-    [
-      "Black Coffee",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Black%20Coffee"
-    ],
-    [
-      "Sampdoria vs Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sampdoria%20vs%20Juventus"
-    ],
-    [
-      "Latest on Putin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Latest%20on%20Putin"
-    ],
-    [
-      "CAF Champions League fixtures",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Champions%20League%20fixtures"
-    ],
-    [
-      "Dog",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dog"
-    ],
-    [
-      "Fulham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham"
-    ],
-    [
-      "Caf",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Caf"
-    ],
-    [
-      "Brentford vs Burnley",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20vs%20Burnley"
-    ],
-    [
-      "Siyanda Sesimani",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Siyanda%20Sesimani"
-    ],
-    [
-      "Brentford FC",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20FC"
-    ],
-    [
-      "West Brom",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Brom"
-    ],
-    [
-      "URC Rugby",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#URC%20Rugby"
-    ],
-    [
-      "AC Milan",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan"
-    ],
-    [
-      "Mamelodi Sundowns vs Al Ahly",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20Al%20Ahly"
-    ]
+    {
+      "title": "Richards Bay vs Orlando Pirates",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Richards%20Bay%20vs%20Orlando%20Pirates",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0200"
+    },
+    {
+      "title": "Milan vs Parma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Milan%20vs%20Parma",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "Tottenham vs Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Leicester%20City",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Club Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Club%20Brugge",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 +0200"
+    },
+    {
+      "title": "Powerball jackpot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Powerball%20jackpot",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "Fulham vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20Man%20United",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Mamelodi Sundowns vs Sibanye Golden Stars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns%20vs%20Sibanye%20Golden%20Stars",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Man City vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Valladolid vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Valladolid%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0200"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Wolves vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wolves%20vs%20Arsenal",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Liverpool vs Ipswich Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20Ipswich%20Town",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0200"
+    },
+    {
+      "title": "Planets aligning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Planets%20aligning",
+      "pubdate": "Sat, 25 Jan 2025 09:00:00 +0200"
+    },
+    {
+      "title": "England vs India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20India",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Chelsea FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0200"
+    },
+    {
+      "title": "Omar Marmoush",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Omar%20Marmoush",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0200"
+    },
+    {
+      "title": "Nottingham Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nottingham%20Forest",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0200"
+    }
   ]
 }

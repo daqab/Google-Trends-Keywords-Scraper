@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:21:57",
+  "lastUpdate": "26-01-2025 , 15:59:25",
   "data": [
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20United"
-    ],
-    [
-      "Angleterre Irlande",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Angleterre%20Irlande"
-    ],
-    [
-      "Alain Krivine",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Krivine"
-    ],
-    [
-      "Brighton – Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brighton%20%E2%80%93%20Liverpool"
-    ],
-    [
-      "Montpellier – Nice",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Montpellier%20%E2%80%93%20Nice"
-    ],
-    [
-      "ISS",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ISS"
-    ],
-    [
-      "Zemmour oeuf",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zemmour%20oeuf"
-    ],
-    [
-      "Sampdoria – Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sampdoria%20%E2%80%93%20Juventus"
-    ],
-    [
-      "Hoffenheim – Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hoffenheim%20%E2%80%93%20Bayern"
-    ],
-    [
-      "Tremblement de terre",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tremblement%20de%20terre"
-    ],
-    [
-      "Ange Capuozzo",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ange%20Capuozzo"
-    ],
-    [
-      "Italie - Ecosse",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Italie%20-%20Ecosse"
-    ],
-    [
-      "Anais Nin",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anais%20Nin"
-    ],
-    [
-      "Bruno Rodriguez",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruno%20Rodriguez"
-    ],
-    [
-      "Grenoble",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble"
-    ],
-    [
-      "France Angleterre",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Angleterre"
-    ],
-    [
-      "Pete Davidson",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pete%20Davidson"
-    ],
-    [
-      "Auxerre – Sochaux",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Auxerre%20%E2%80%93%20Sochaux"
-    ],
-    [
-      "Col de Turini",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Col%20de%20Turini"
-    ],
-    [
-      "Quentin Fillon Maillet",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Quentin%20Fillon%20Maillet"
-    ]
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zverev",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Julio iglesias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julio%20iglesias",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Matt Pokora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Matt%20Pokora",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Lucie Bernardoni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lucie%20Bernardoni",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Francois Cluzet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20Cluzet",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Mathieu Bedini, Mister France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mathieu%20Bedini,%20Mister%20France",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "UBB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "LOSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Maladie de Charcot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maladie%20de%20Charcot",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Elias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elias",
+      "pubdate": "Sun, 26 Jan 2025 03:00:00 +0100"
+    },
+    {
+      "title": "Eau du robinet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eau%20du%20robinet",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Kendji Girac",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kendji%20Girac",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Star Academy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Star%20Academy",
+      "pubdate": "Sat, 25 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Valladolid – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Valladolid%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Paris-sg – Reims",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris-sg%20%E2%80%93%20Reims",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Bob Dylan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bob%20Dylan",
+      "pubdate": "Sat, 25 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Manchester City – Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City%20%E2%80%93%20Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Monaco – Rennes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Monaco%20%E2%80%93%20Rennes",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Inondations Rennes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inondations%20Rennes",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 15:00:00 +0100"
+    }
   ]
 }

@@ -1,85 +1,105 @@
 {
-  "lastUpdate": "12-03-2022 , 20:22:02",
+  "lastUpdate": "26-01-2025 , 15:59:30",
   "data": [
-    [
-      "FCZ",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCZ"
-    ],
-    [
-      "Manchester United",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United"
-    ],
-    [
-      "Kranjska Gora",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kranjska%20Gora"
-    ],
-    [
-      "Janin Ullmann",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Janin%20Ullmann"
-    ],
-    [
-      "6 Nations",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#6%20Nations"
-    ],
-    [
-      "Hoffenheim gegen Bayern",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hoffenheim%20gegen%20Bayern"
-    ],
-    [
-      "Belarus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Belarus"
-    ],
-    [
-      "Sampdoria  Juventus",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sampdoria%20%20Juventus"
-    ],
-    [
-      "Manunited gegen Tottenham",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manunited%20gegen%20Tottenham"
-    ],
-    [
-      "Engadin Skimarathon",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Engadin%20Skimarathon"
-    ],
-    [
-      "Silvia Laubenbacher",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silvia%20Laubenbacher"
-    ],
-    [
-      "Brighton – Liverpool",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brighton%20%E2%80%93%20Liverpool"
-    ],
-    [
-      "Bastian Bielendorfer",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bastian%20Bielendorfer"
-    ],
-    [
-      "ISS",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ISS"
-    ],
-    [
-      "Sci-Hub",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sci-Hub"
-    ],
-    [
-      "Jim Carrey",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jim%20Carrey"
-    ],
-    [
-      "Toto Wolff",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Toto%20Wolff"
-    ],
-    [
-      "Atletico Madrid",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atletico%20Madrid"
-    ],
-    [
-      "Camille Rast",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Camille%20Rast"
-    ],
-    [
-      "Raif Badawi",
-      "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raif%20Badawi"
-    ]
+    {
+      "title": "Star Academy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Academy",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Slalom Kitzbühel 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slalom%20Kitzb%C3%BChel%202025",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Büne Huber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%BCne%20Huber",
+      "pubdate": "Sun, 26 Jan 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Sophia Thomalla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophia%20Thomalla",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Autobahnvignette 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Autobahnvignette%202025",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "AC Milan – Parme",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan%20%E2%80%93%20Parme",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "FC Luzern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Twint",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Twint",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "St. Gallen – Lausanne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.%20Gallen%20%E2%80%93%20Lausanne",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Julio iglesias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julio%20iglesias",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Ballons chateau d'Oex",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ballons%20chateau%20d'Oex",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Gossau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gossau",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Heino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heino",
+      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Antholz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Antholz",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Abfahrt Ski Alpin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abfahrt%20Ski%20Alpin",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Lucie Bernardoni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lucie%20Bernardoni",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
+      "pubdate": "Sat, 25 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "Valladolid – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Valladolid%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Gölä Konzert",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#G%C3%B6l%C3%A4%20Konzert",
+      "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
+    }
   ]
 }
